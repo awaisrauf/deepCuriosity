@@ -6,9 +6,7 @@ To insert highlight code inside of a post, it's enough to use some specific tags
 This is a CSS example:
 {% highlight python %}
 
-body {
-  background-color: #fff;
-  }
+import call
 
 h1 {
   color: #ffaa33;
