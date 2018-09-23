@@ -1,5 +1,5 @@
 ---
-title: Book Review: Why Nations Fail
+title: Book Review, Why Nations Fail
 ---
 Pakistan recently held its general elections and new party's government has been elected. This newly elected government
 came with a reformist agenda and started implementing it reforms by making task forces and advisory councils consisting of renown professionals, 
