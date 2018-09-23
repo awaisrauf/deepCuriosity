@@ -1,10 +1,10 @@
 # Site settings
 title: Deep Curiosity
-description: "A minimal blog template, build with Jekyll."
+description: "My personal blog"
 url: 
 author:
-  name: "Jacopo Rabolini"
-  email: "hello@jacoporabolini.com"
+  name: "Muhammad Awais"
+  email: "iawaisrauf@gmail.com"
   url: ""
 
 # Build settings
@@ -30,7 +30,7 @@ gems:
   - jekyll-paginate
 
 # Custom variables
-version: "1.1.0"
+version: "1"
 
 # Options
 custom_header: true
