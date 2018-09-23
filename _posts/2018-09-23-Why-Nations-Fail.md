@@ -31,4 +31,4 @@ process. This made political and then in turn economical institutions more and m
 
 Another important aspect of this theory is critical juncture: a defining moment in history such as Black death and glorious revolution in Great Britain, French revolution, 
 civil war in USA, independence for European colonies etc. Authors argued that little improvements towards inclusiveness plays major role at the time of critical 
-juncture. For instance, since there were inclusiveness in Britain's institutions at the time of golorious revolution so it
+juncture. For instance, since there were some inclusiveness in Britain's institutions at the time of glorious revolution, a critical juncture, 
