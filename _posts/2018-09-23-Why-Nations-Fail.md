@@ -1,6 +1,14 @@
 ---
 title: Book Review - Why Nations Fail
 ---
+<img src="https://www.rabwah.net/wp-content/uploads/2014/09/imran_khan_atif_mian_finance_minister2.jpg"  style="width:50%;">
+<style>
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+</style>
 Pakistan recently held its general elections and new party's government has been elected. This newly elected government
 came with a reformist agenda and started implementing it reforms by making task forces and advisory councils consisting of renown professionals, 
 academics and other stakeholders. One such advisory council was established for reforms in country's deteriorating economy by 
@@ -14,6 +22,8 @@ In this quest, I came across this book "Why Nations Fail" by two development eco
 my view on the book and answers and sense of relief I got from this book. 
 
 ### Theory of Prosperity 
+<img src="https://awaisrauf.github.io/bookshelf/imgs/why_nations_fail.jpg" style="width:15%;">
+
 This books basically presents a new theory to explain reasons for why some nations prosper while many other, even neighbors, linger behind. Heart of the 
 theory lies in two terms: inclusive and extractive institutions. Extractive institutions do their best for the benefits of a narrow group of elites, exploiting
 resources to benefit a few and 
