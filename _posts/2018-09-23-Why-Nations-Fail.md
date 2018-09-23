@@ -31,4 +31,16 @@ process. This made political and then in turn economical institutions more and m
 
 Another important aspect of this theory is critical juncture: a defining moment in history such as Black death and glorious revolution in Great Britain, French revolution, 
 civil war in USA, independence for European colonies etc. Authors argued that little improvements towards inclusiveness plays major role at the time of critical 
-juncture. For instance, since there were some inclusiveness in Britain's institutions at the time of glorious revolution, a critical juncture, 
+juncture. For instance, since there were some inclusiveness in Britain's institutions at the time of glorious revolution, a critical juncture, it made it possible 
+for parliamentary forces to win similarly Australia and USA got benefited from Industrial Revolution, another critical juncture, due to inclusive nature of their institutions. Many African and
+Asian countries were unable to reap the benefits of industrial revolution or independence due to the lack of these institutions.
+
+Authors then describe vicious and virtuous cycle of extractive and inclusive institutions i.e. extractive institutions reinforces path for even more inclusive that tend to be long term while
+virtuous cycle exactly inverse of it making nations fail for so many years. While all these factors do play an important rule, there is another contingent part of history. Take example of
+black death that shock foundations of feudalism and serfdom in Britain by when peasants started movements. On the other hand, similar efforts of serfs failed in many eastern European countries after the
+the same black death. 
+
+Book presents a lot of historical events from around the globe from neolithic revolution to as recent 2010's Arab spring revolution and discusses it from presepective. Though book is lengthy with 460+ pages but 
+it presents a very sane argument with strong historical background its worth a shot. I would rate it 4.3 stars out of 5. Its definately a must read for every one who wanted to get involved in political process of the country for better.
+
+Lastly, I got a wave of relief after reading it in such a times of political mess. I think it is better that more and more people are getting involved in the political process and making it harder for government to do wrong. A government that responds for people's call is better in the long run as it tend to represent common good. 
