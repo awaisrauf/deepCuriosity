@@ -1,5 +1,5 @@
 ---
-title: Book Review, Why Nations Fail
+title: Book Review - Why Nations Fail
 ---
 Pakistan recently held its general elections and new party's government has been elected. This newly elected government
 came with a reformist agenda and started implementing it reforms by making task forces and advisory councils consisting of renown professionals, 
@@ -13,7 +13,7 @@ some well researched book to understand what really makes countries fail in the 
 In this quest, I came across this book "Why Nations Fail" by two development economists from MIT and Harvard. In my very first blog, I will be presenting 
 my view on the book and answers and sense of relief I got from this book. 
 
-## Theory of Prosperity 
+### Theory of Prosperity 
 This books basically presents a new theory to explain reasons for why some nations prosper while many other, even neighbors, linger behind. Heart of the 
 theory lies in two terms: inclusive and extractive institutions. Extractive institutions do their best for the benefits of a narrow group of elites, exploiting
 resources to benefit a few and 
@@ -21,7 +21,7 @@ inclusive institutions work for the "many". They theorize that countries with mo
 while extractive economical and political institutes makes countries fail. To force their argument of inclusive-extractive institutions, authors starts with
 example of two neighboring towns at Mexico-USA border and explains inequality between geographically neighboring and its relation with inclusive and extractive 
 institutions by first explaining historical roots of both country's systems and then their present shape. 
-## Lessons from History
+### Lessons from History
 This book sees every historical event from neolithic revolution, Roman empire's rise and fall, great Mayan civilization, European colonization, Glorious 
 Revolution to Industrial revolution with a lens of inclusive-extractive institutions. Their theory suggests that a sustainable growth is only possible if 
 country's system is pluralistic where voice of many is heard and acted upon while countries with absolutist regime tend to fail even if they got short term
@@ -43,5 +43,5 @@ the same black death.
 
 Book presents a lot of historical events from around the globe from neolithic revolution to as recent 2010's Arab spring revolution and discusses it from presepective. Though book is lengthy with 460+ pages but 
 it presents a very sane argument with strong historical background its worth a shot. I would rate it 4.3 stars out of 5. Its definately a must read for every one who wanted to get involved in political process of the country for better.
-## Answers to my questions
+### Answers to my questions
 Lastly, I got a wave of relief after reading it in such a times of political mess. I think it is better that more and more people are getting involved in the political process and making it harder for government to do wrong. A government that responds for people's call is better in the long run as it tend to represent common good. 
