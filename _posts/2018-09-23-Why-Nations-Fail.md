@@ -24,34 +24,48 @@ Pakistan recently held its general elections and a new party's government has be
 ### Theory of Prosperity 
 <img src="https://awaisrauf.github.io/bookshelf/imgs/why_nations_fail.jpg" style="width:15%;">
 
-This books basically presents a new theory to explain reasons for why some nations prosper while many other, even neighbors, linger behind. Heart of the 
-theory lies in two terms: inclusive and extractive institutions. Extractive institutions do their best for the benefits of a narrow group of elites, exploiting
-resources to benefit a few and 
-inclusive institutions work for the "many". They theorize that countries with more inclusive economical and political institutions tend to get prosperous 
-while extractive economical and political institutes makes countries fail. To force their argument of inclusive-extractive institutions, authors starts with
-example of two neighboring towns at Mexico-USA border and explains inequality between geographically neighboring and its relation with inclusive and extractive 
-institutions by first explaining historical roots of both country's systems and then their present shape. 
+This books basically presents a new theory to explain the reasons why some nations prosper while many other linger behind. Heart of the theory lies in two
+ terms: inclusive and extractive institutions. Extractive institutions are those who do their best for the benefits of a narrow group of elites, exploiting
+ national resources to benefit a few and inclusive institutions work for the "many". Authors theorize that countries with more inclusive economic and political
+ institutions tend to get prosperous while extractive economic and political institutes make countries fail. To force their argument of inclusive-extractive
+ institutions, authors start with an example of two neighboring towns at Mexico-USA border and explain inequality between geographically and culturally similar
+ towns and its relation with inclusive and extractive institutions by first explaining historical roots of the system of both countries and then their present
+ shape.
+
+
 ### Lessons from History
-This book sees every historical event from neolithic revolution, Roman empire's rise and fall, great Mayan civilization, European colonization, Glorious 
-Revolution to Industrial revolution with a lens of inclusive-extractive institutions. Their theory suggests that a sustainable growth is only possible if 
-country's system is pluralistic where voice of many is heard and acted upon while countries with absolutist regime tend to fail even if they got short term
-success. One major example of this theory is how British and USA got so much prosperous while Soviet Union, even after a short period of rapid growth fall behind.
-After Magna Carta in thirteen century, power of crown started to decline and people started becoming more and more involved in the political process. This forced parliament to start listing to 
-people making political institutions more and more plural. On the other hand, Soviet Union was under an absolutist regime where individuals had no say in the 
-process. This made political and then in turn economical institutions more and more extractive and thus in the turn stopping short lived progress. 
+This book sees every historical event from the neolithic revolution, the Roman Empire's rise, and fall, great Mayan civilization, European colonization,
+ the Glorious Revolution to Industrial revolution with a lens of inclusive-extractive institutions. Their theory suggests that a sustainable growth is
+ only possible if country's system is pluralistic where voice of many is heard and acted upon while countries with absolutist regime tend to fail even if
+ they got short-term success. One major example of this theory is how British and USA got so much prosperous while the Soviet Union, even after a short period
+ of rapid growth fall behind. After Magna Carta in the thirteenth century, the power of the crown started to decline in Britain and parliament got more and
+ more powerful. People started becoming more and more invested in the political process. This forced parliament to start listing to people making political
+ institutions more and more plural. On the other hand, Soviets were under an absolutist regime where individuals had no say in the political process. This
+ made political and then economic institutions more and more extractive and thus stopping short lived progress.
 
-Another important aspect of this theory is critical juncture: a defining moment in history such as Black death and glorious revolution in Great Britain, French revolution, 
-civil war in USA, independence for European colonies etc. Authors argued that little improvements towards inclusiveness plays major role at the time of critical 
-juncture. For instance, since there were some inclusiveness in Britain's institutions at the time of glorious revolution, a critical juncture, it made it possible 
-for parliamentary forces to win similarly Australia and USA got benefited from Industrial Revolution, another critical juncture, due to inclusive nature of their institutions. Many African and
-Asian countries were unable to reap the benefits of industrial revolution or independence due to the lack of these institutions.
 
-Authors then describe vicious and virtuous cycle of extractive and inclusive institutions i.e. extractive institutions reinforces path for even more inclusive that tend to be long term while
-virtuous cycle exactly inverse of it making nations fail for so many years. While all these factors do play an important rule, there is another contingent part of history. Take example of
-black death that shock foundations of feudalism and serfdom in Britain by when peasants started movements. On the other hand, similar efforts of serfs failed in many eastern European countries after the
-the same black death. 
+Another important aspect of this theory is critical juncture: a defining moment in history which presents a chance for nations to change everything for better
+ such as Black death or glorious revolution in Great Britain, French revolution, civil war in USA, independence for European colonies etc. Authors argue that
+ little improvements towards inclusiveness play a major role at the time of critical juncture. For instance, since there was some inclusiveness in Britain's
+ institutions at the time of Glorious Revolution, a critical juncture, it made it possible for parliamentary forces to win and a slow democratic process started
+ similarly Australia and USA got benefited from Industrial Revolution, another critical juncture, due to inclusive nature of their institutions who supported
+ new technology. Many African and Asian countries were unable to reap the benefits of industrial revolution or independence due to the lack of these
+ institutions and fear of creative destruction from elites.
 
-Book presents a lot of historical events from around the globe from neolithic revolution to as recent 2010's Arab spring revolution and discusses it from presepective. Though book is lengthy with 460+ pages but 
-it presents a very sane argument with strong historical background its worth a shot. I would rate it 4.3 stars out of 5. Its definately a must read for every one who wanted to get involved in political process of the country for better.
+
+Authors then describe vicious and virtuous cycles of extractive and inclusive institutions i.e. extractive institutions reinforces path for even more extractive
+ institutions that tend to be long-term while a virtuous cycle is exactly inverse of it. While all these factors do play an important rule, there is another
+ contingent part of history. Take the example of black death that shock foundations of feudalism and serfdom in Britain when peasants started movements to get
+ rid of them. On the other hand, similar efforts of serfs failed in many eastern European countries after the same black death.
+
+Book presents a lot of historical events from around the globe from the neolithic revolution to as recent as 2010's Arab spring revolution and discusses it
+ from the perspective of their theory of why nations fail. Though the book is lengthy having 460+ pages, it presents a very sane argument with a strong 
+ historical background and its worth a read. I would rate it 4.5 out of 5. Its definitely a must read for people interested in politics and how little things
+ have larger effect in the long run.
+
 ### Answers to my questions
-Lastly, I got a wave of relief after reading it in such a times of political mess. I think it is better that more and more people are getting involved in the political process and making it harder for government to do wrong. A government that responds for people's call is better in the long run as it tend to represent common good. 
+
+Lastly, I got a wave of relief after reading this book in times of such political polarity. I think it is better that more and more people are getting involved
+ in the political process and making it harder for government to do wrong. A government that responds to criticism of people is better in the long run as it
+ tends to represent common good. No matter how slow, democracy is only true and long-term solution. Therefore, we should support pluralistic politics and
+ stronger, inclusive institutions.
