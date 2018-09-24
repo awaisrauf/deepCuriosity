@@ -9,7 +9,16 @@ img {
     margin-right: auto;
 }
 </style>
-Pakistan recently held its general elections and a new party’s government has been elected. This newly elected government came with a reformist agenda and started implementing it reforms by making task forces and advisory councils consisting of renown professionals, academics and other stakeholders. One such advisory council was established for reforms in country’s deteriorating economy by finance minister Asad Umar having four economists from famous international universities. One of these academics was Atif Mian who belongs to a minority group having historical issues with the Muslim majority. This selection created widespread criticism and government had to take its decision back. This was very disappointing as a professional should be evaluated on his/her skills rather than his/her religious affiliation. His resignation too provoked a storm and the internet was full of argument form both sides. From the internet, it appeared like an action that could damage the reformist agenda of the party or a revolutionary step. Seeing this political mess, I decided to read some well-researched book to understand what really makes countries fail in the long run and how this “resignation” can affect Pakistan. In this quest, I came across this book “Why Nations Fail” by two development economists from MIT and Harvard. In my very first blog, I will be presenting a review of the book and answers and sense of relief I got from this book.
+Pakistan recently held its general elections and a new party's government has been elected. This newly elected government came with a reformist agenda and
+ started implementing it reforms by making task forces and advisory councils consisting of renown professionals, academics and other stakeholders. One such
+ advisory council was established for reforms in country's deteriorating economy by finance minister Asad Umar having four economists from famous international
+ universities. One of these academics was Atif Mian who belongs to a minority group having historical issues with the Muslim majority. This selection created
+ widespread criticism and government had to take its decision back. This was very disappointing as a professional should be evaluated on his/her skills rather
+ than his/her religious affiliation. His resignation too provoked a storm and the internet was full of argument form both sides. From the internet, it appeared
+ like an action that could damage the reformist agenda of the party or a revolutionary step. Seeing this political mess, I decided to read some well-researched
+ book to understand what really makes countries fail in the long run and how this "resignation" can affect Pakistan. In this quest, I came across this book 
+ "Why Nations Fail" by two development economists from MIT and Harvard. In my very first blog, I will be presenting a review of the book and answers and sense
+ of relief I got from this book.
 
 
 ### Theory of Prosperity 
