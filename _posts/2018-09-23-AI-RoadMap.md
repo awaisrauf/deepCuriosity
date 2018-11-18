@@ -13,7 +13,7 @@ This section is to list the courses taken and those that will be done in the fut
 
 |  | **Name** | **School** | **End Date** | **Platform** |
 | ---------- | ----- | ------ | --------- | ------------ | 
-| ✔️ | [CS50: Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) | <img width='28' height='28' src='/imgs/edx.png'> | Dec&nbsp;2017 | <img width='28' height='28' src='/imgs/edx.png'> | 
+| ✔️ | [CS50: Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) | <img width='28' height='28' src='/img/edx.png'> | Dec&nbsp;2017 | <img width='28' height='28' src='/img/edx.png'> | 
 | ◻️ | [Machine Learning A-Z : Become Kaggle Master](https://www.udemy.com/machinelearning-kaggle/) | [Udemy](https://www.udemy.com) | - | - |-| 
 
 
