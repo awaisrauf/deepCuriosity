@@ -1,5 +1,6 @@
 ---
 title: Data Science and Machine Learning Jobs in Pakistan
+published: false
 ---
 <img src="https://img.deusm.com/darkreading/1331840_Slideshow/Slide1CoverArt.jpg"  style="width:50%;">
 <style>

@@ -1,5 +1,6 @@
 ---
 title: Book Review - Why Nations Fail
+published: true
 ---
 <img src="https://www.rabwah.net/wp-content/uploads/2014/09/imran_khan_atif_mian_finance_minister2.jpg"  style="width:50%;">
 <style>
