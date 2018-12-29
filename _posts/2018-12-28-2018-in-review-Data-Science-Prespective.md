@@ -1,4 +1,3 @@
-
 ---
 title: A unique, data centric review of 2018 for Pakistan
 published: true
@@ -12,6 +11,7 @@ for Pakistan.
 To see major events in Pakistan that were happened in 2018, I scrapped a major Urdu news website. This news website is very
 active and posts articles about major updates every day. The data contained around 20k articles with around 300k words. First
 thing I had done was making word cloud after removing stop words.
+
 <center>
 <img src="https://raw.githubusercontent.com/awaisrauf/deepCuriosity/master/img/28dec18_1.PNG">
 Word cloud formed by text of all the articles.    
