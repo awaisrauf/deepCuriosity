@@ -50,13 +50,11 @@ presents a story very similar to the one presented by earlier word clouds.
 Word cloud formed by tag of articles. These tag presents main give away of stories so very important.   
 </center>
 
+<figure>
+  <img src="https://raw.githubusercontent.com/awaisrauf/deepCuriosity/master/img/28dec18_4.PNG">
+  <figcaption>Word cloud formed by headlines of articles.</figcaption>
+</figure>
 
-<center>
-
-<img src="https://raw.githubusercontent.com/awaisrauf/deepCuriosity/master/img/28dec18_4.PNG">
-Word cloud formed by headlines of articles.  
-
-</center>
 
 
 Another interesting thing to see distribution of articles written and words used. It seems both of these distributions followed
