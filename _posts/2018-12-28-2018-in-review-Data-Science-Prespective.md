@@ -29,8 +29,10 @@ I posted this picture on Pakistan.ai community and someone asked me to make a si
 <p>
 <center>
 <img src="https://raw.githubusercontent.com/awaisrauf/deepCuriosity/master/img/28dec18_2.PNG">
-<em>Word cloud formed by bi-grams of text of all the articles.</em>    
+<em>Word cloud formed by bi-grams of text of all the articles. </em>    
 </center>
+</p>
+
 
 If these word clouds are to be believed, the election was overwhelmingly dominant in 2018. Imran Khan had most mentions, closely followed
 by many N-League leaders. Other most occupying events were related to judicial activism and cricket along with USA and Naqeeb-Anwar case. 
