@@ -18,13 +18,13 @@ Kai-Fu nominated artificial intelligence as fourth industrial revolution after s
  became [TA for ML course](https://awaisrauf.github.io/ee512/),
  [won a data science competition](https://propakistani.pk/2018/08/01/first-ever-election-prediction-contest-in-pakistan-concludes/),
  [published a paper in NeurIPS workshop](https://awaisrauf.github.io/xray-denoising)) since then and will be starting my Ph.D. in this field soon, 
- I think this is not enough. The field is accelerating rapidly, [double exponential according to Elon Musk](https://www.youtube.com/watch?v=S3PV9xMSfSs). Therefore, I pledged to complete at least 100 courses plus books combined in the next 3 years.
- I also have decided to systematically track and share my progress thereby using the magic of social pressure. I will use this page to track these pledges for this road map. 
+ I think this is not enough. The field is accelerating rapidly, [double exponential according to Elon Musk](https://www.youtube.com/watch?v=S3PV9xMSfSs). To cope with this pace and to complete my AI related dreams, I have decided to pledged to complete at least 100 courses plus books on this field in the next 3 years.
+ I also have decided to systematically track and share my progress thereby using the magic of social pressure. I will use this page to track and share these pledges for this road map. 
  
 
 
 ### 1. Courses
-This section keeps track of all the courses I have completed recently or wanted to complete in future. All the courses are 
+This section will act as to-do list of all the courses I have completed recently or wanted to complete in the future. All the courses are 
 related to sub-fields of artificial intelligence, machine learning, data science statistics etc. Order shows real order in which I would 
 like to complete them.
 
