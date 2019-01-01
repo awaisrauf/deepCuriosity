@@ -1,5 +1,5 @@
 ---
-title: Road Map to Learn Artificial Intelligence and Data Science
+title: My resolutions and why I am sharing it
 published: true
 ---
 
