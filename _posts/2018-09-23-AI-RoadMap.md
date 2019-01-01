@@ -13,15 +13,15 @@ I want to track the progress of my studies in this broad area. I do not intend t
 
 This section is to list the courses taken and those that will be done in the future.
 
-|  | **Name** | **School** | **End Date** | **Platform** |
-| ---------- | ----- | ------ | --------- | ------------ | 
-| ✔️ | [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models) | <img width='60' height='60' src='/deepCuriosity/img/facebook.png'> | January&nbsp;2019 | <img width='60' height='60' src='/deepCuriosity/img/udacity.png'> | 
-| ◻️ | [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models) | <img width='60' height='60' src='/deepCuriosity/img/deeplearningai.png'> | June&nbsp;2018 | <img width='60' height='60' src='/deepCuriosity/img/coursera.png'> | 
-| ✔️ | [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks) | <img width='60' height='60' src='/deepCuriosity/img/deeplearningai.png'> | June&nbsp;2018 | <img width='60' height='60' src='/deepCuriosity/img/coursera.png'> | 
-| ✔️ | [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects) | <img width='60' height='60' src='/deepCuriosity/img/deeplearningai.png'> | June&nbsp;2018 | <img width='60' height='60' src='/deepCuriosity/img/coursera.png'> | 
-| ✔️ | [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network) | <img width='60' height='60' src='/deepCuriosity/img/deeplearningai.png'> | June&nbsp;2018 | <img width='60' height='60' src='/deepCuriosity/img/coursera.png'> | 
-| ✔️ | [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) | <img width='60' height='60' src='/deepCuriosity/img/deeplearningai.png'> | June&nbsp;2018 | <img width='60' height='60' src='/deepCuriosity/img/coursera.png'> | 
-| ✔️ | [CS50: Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) | <img width='60' height='60' src='/deepCuriosity/img/harvard.png'> | Dec&nbsp;2016 | <img width='60' height='60' src='/deepCuriosity/img/edx.png'> | 
+|  | **Name** | **School** | **End Date** | **Platform** |**Certificate** |
+| ---------- | ----- | ------ | --------- | ------------ |------------ |  
+| ✔️ | [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models) | <img width='60' height='60' src='/deepCuriosity/img/facebook.png'> | January&nbsp;2019 | <img width='60' height='60' src='/deepCuriosity/img/udacity.png'> | -- |
+| ◻️ | [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models) | <img width='60' height='60' src='/deepCuriosity/img/deeplearningai.png'> | June&nbsp;2018 | <img width='60' height='60' src='/deepCuriosity/img/coursera.png'> |  -- |
+| ✔️ | [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks) | <img width='60' height='60' src='/deepCuriosity/img/deeplearningai.png'> | June&nbsp;2018 | <img width='60' height='60' src='/deepCuriosity/img/coursera.png'> | -- | 
+| ✔️ | [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects) | <img width='60' height='60' src='/deepCuriosity/img/deeplearningai.png'> | June&nbsp;2018 | <img width='60' height='60' src='/deepCuriosity/img/coursera.png'> |  -- |
+| ✔️ | [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network) | <img width='60' height='60' src='/deepCuriosity/img/deeplearningai.png'> | June&nbsp;2018 | <img width='60' height='60' src='/deepCuriosity/img/coursera.png'> | -- | 
+| ✔️ | [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) | <img width='60' height='60' src='/deepCuriosity/img/deeplearningai.png'> | June&nbsp;2018 | <img width='60' height='60' src='/deepCuriosity/img/coursera.png'> |  -- |
+| ✔️ | [CS50: Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) | <img width='60' height='60' src='/deepCuriosity/img/harvard.png'> | Dec&nbsp;2016 | <img width='60' height='60' src='/deepCuriosity/img/edx.png'> | -- | 
 
 
 
