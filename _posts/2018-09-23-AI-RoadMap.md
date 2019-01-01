@@ -1,10 +1,9 @@
 ---
 title: 2019's Road Map for Learning of Data scinece and AI
-published: false
+published: true
 ---
 
-# My AI RoadMap 
-Grabbing Free Knowledge Lying Around in WorldWideWeb
+
 
 
 ### Why this?

@@ -52,7 +52,7 @@ Word cloud formed by tag of articles. These tag presents main give away of stori
 
 <figure>
   <img src="https://raw.githubusercontent.com/awaisrauf/deepCuriosity/master/img/28dec18_4.PNG">
-  <figcaption>Word cloud formed by headlines of articles.</figcaption>
+  Word cloud formed by headlines of articles.
 </figure>
 
 
