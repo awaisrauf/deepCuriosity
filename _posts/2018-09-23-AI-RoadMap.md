@@ -7,29 +7,38 @@ published: true
 
 
 ### Why this?
-According to many [studies in psychology[(https://www.psychologytoday.com/us/blog/am-i-right/201404/the-astonishing-power-social-pressure),
- social pressure can force us to do things that we may not do otherwise. While social pressure can do harm
-(for instance, depression when we compare ourselves with others in terms of social status), I decided to use it for my benefit.
+According to many [studies in psychology](https://www.psychologytoday.com/us/blog/am-i-right/201404/the-astonishing-power-social-pressure),
+ social pressure can force us to do things that we may not do otherwise. While social pressure can do much harm
+(for instance, depression when we compare ourselves with others in terms of social status), I have found an interesting hack to use it for my good.
  Recently, I observed that whenever I share my ongoing work on social media, I tend to complete it on time. For instance, 
-Once I pledged on social media to read a long and dry book. Surprisingly, I completed it in record time.
- Similarly, I have made a [bookshelf](https://awaisrauf.github.io/bookshelf/) to track my readings recently and my speed increased suddenly.
- Therefore, I decided to get this even further.
+Once I pledged to read a long and dry book on Facebook. Surprisingly, I completed it in a record time.
+ Similarly, when I made the [bookshelf](https://awaisrauf.github.io/bookshelf/) to track my readings, my speed and interest increased suddenly.
+ Therefore, I decided to get this hack even further.
 
  Kai-Fu nominated artificial intelligence as fourth industrial revolution after steam engine, electricity and ICT in his recent
  [book](https://www.goodreads.com/book/show/38242135-ai-superpowers). Andrew Ng called it 
  [electricity of the future](https://medium.com/syncedreview/artificial-intelligence-is-the-new-electricity-andrew-ng-cc132ea6264). Due to its
 utmost importance, I decided to make a career out of it in 2017 when I started working with [Spider Lab](http://spider.itu.edu.pk). While 
-I learned and achieved a lot (completed many online courses,
+I have learned and achieved a lot (completed many online courses,
  became [TA for ML course](https://awaisrauf.github.io/ee512/),
  [won a data science competition](https://propakistani.pk/2018/08/01/first-ever-election-prediction-contest-in-pakistan-concludes/),
- [published a paper in NeurIPS workshop](https://awaisrauf.github.io/xray-denoising)) and even going to start Ph.D. in the field soon, 
- I think this is not enough owing to the speed of the field. Therefore, I have decided to systematically track and share my progress thereby 
- using magic of social pressure to complete it on time. I will use this page to track primarily for my readings and spare-time courses. 
+ [published a paper in NeurIPS workshop](https://awaisrauf.github.io/xray-denoising)) since then and even going to start my Ph.D. in the field soon, 
+ I think this is not enough owing to the speed of the field. Therefore, I pledged to complete at least 100 courses and books combined in next 3 years.
+ I also have decided to systematically track and share my progress thereby 
+ using magic of social pressure to complete it on time. I will use this page to track these pledges. 
+ 
+ <div class="progress">
+  <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="40"
+  aria-valuemin="0" aria-valuemax="100" style="width:40%">
+    40% Complete (success)
+  </div>
+</div>
 
 ### 1. Courses
 This section keeps track of all the courses I have completed recently or wanted to complete in future. All the courses are 
 related to sub-fields of artificial intelligence, machine learning, data science statistics etc. Order shows real order in which I would 
 like to complete them.
+
 
 |  | **Name** | **School** | **End Date** | **Platform** |**Certificate** |
 | ---------- | ----- | ------ | --------- | ------------ |----- |  
