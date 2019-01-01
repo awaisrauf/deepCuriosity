@@ -17,9 +17,9 @@ Kai-Fu nominated artificial intelligence as fourth industrial revolution after s
  While I have learned and achieved a lot (completed many online courses,
  became [TA for ML course](https://awaisrauf.github.io/ee512/),
  [won a data science competition](https://propakistani.pk/2018/08/01/first-ever-election-prediction-contest-in-pakistan-concludes/),
- [published a paper in NeurIPS workshop](https://awaisrauf.github.io/xray-denoising)) since then and even going to start my Ph.D. in this field soon, 
- I think this is not enough owing to the speed of the field. Therefore, I pledged to complete at least 100 courses and books combined in the next 3 years.
- I also have decided to systematically track and share my progress thereby using the magic of social pressure to complete it on time. I will use this page to track these pledges for this road map. 
+ [published a paper in NeurIPS workshop](https://awaisrauf.github.io/xray-denoising)) since then and will be starting my Ph.D. in this field soon, 
+ I think this is not enough. The field is accelerating rapidly, [double exponential according to Elon Musk](https://www.youtube.com/watch?v=S3PV9xMSfSs). Therefore, I pledged to complete at least 100 courses plus books combined in the next 3 years.
+ I also have decided to systematically track and share my progress thereby using the magic of social pressure. I will use this page to track these pledges for this road map. 
  
 
 
