@@ -32,8 +32,6 @@ I posted this picture on Pakistan.ai community and someone asked me to make a si
 <em>Word cloud formed by bi-grams of text of all the articles.</em>    
 </center>
 
-
-
 If these word clouds are to be believed, the election was overwhelmingly dominant in 2018. Imran Khan had most mentions, closely followed
 by many N-League leaders. Other most occupying events were related to judicial activism and cricket along with USA and Naqeeb-Anwar case. 
 
@@ -61,14 +59,17 @@ presents a story very similar to the one presented by earlier word clouds.
 </p>
 
 <p>
+<center>
   <img src="https://raw.githubusercontent.com/awaisrauf/deepCuriosity/master/img/28dec18_4.PNG">
   <em>Word cloud formed by headlines of articles.</em>
+</center>
 </p>
 
 
 
 Another interesting thing to see the distribution of articles written and words used. It seems both of these distributions followed
 famous 80-20 rule i.e. 80% of articles were written by 20% of authors. 
+
 
 <p>
 <center>
