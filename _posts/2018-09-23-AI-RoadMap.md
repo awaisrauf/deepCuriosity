@@ -15,7 +15,7 @@ This section is to list the courses taken and those that will be done in the fut
 
 |  | **Name** | **School** | **End Date** | **Platform** |**Certificate** |
 | ---------- | ----- | ------ | --------- | ------------ |------------ |  
-| ✔️ | [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models) | <img width='60' height='60' src='/deepCuriosity/img/facebook.png'> | January&nbsp;2019 | <img width='60' height='60' src='/deepCuriosity/img/udacity.png'> | -- |
+| ✔️ | [PyTorch Scholarship Challenge from Facebook](https://www.udacity.com/facebook-pytorch-scholarship) | <img width='60' height='60' src='/deepCuriosity/img/facebook.png'> | January&nbsp;2019 | <img width='60' height='60' src='/deepCuriosity/img/udacity.png'> | -- |
 | ◻️ | [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models) | <img width='60' height='60' src='/deepCuriosity/img/deeplearningai.png'> | June&nbsp;2018 | <img width='60' height='60' src='/deepCuriosity/img/coursera.png'> |  -- |
 | ✔️ | [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks) | <img width='60' height='60' src='/deepCuriosity/img/deeplearningai.png'> | June&nbsp;2018 | <img width='60' height='60' src='/deepCuriosity/img/coursera.png'> | -- | 
 | ✔️ | [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects) | <img width='60' height='60' src='/deepCuriosity/img/deeplearningai.png'> | June&nbsp;2018 | <img width='60' height='60' src='/deepCuriosity/img/coursera.png'> |  -- |
