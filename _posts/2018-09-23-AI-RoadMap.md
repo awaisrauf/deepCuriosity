@@ -60,6 +60,8 @@ like to complete them.
 ### 2. Books
 
 This section is a to-do list of books I want to read. These books primarily covers core concepts of my AI related fields. 
+
+
 |  | **Title** | **Author** | **Release Date** | 
 | ---------- | ----- | ------ | ------------ |
 | ◻️ | [Fooled by Randomness](https://en.wikipedia.org/wiki/Fooled_by_Randomness) | Nassim Nicholas Taleb | 2001 | 
