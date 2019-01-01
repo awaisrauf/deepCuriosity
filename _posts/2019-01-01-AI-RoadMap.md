@@ -31,7 +31,8 @@ like to complete them.
 
 |  | **Name** | **School** | **End Date** | **Platform** |**Certificate** |
 | ---------- | ----- | ------ | --------- | ------------ |----- |  
-| ◻️ | [ Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/fa18/index.html) | <img width='60' height='60' src='/deepCuriosity/img/berkeley.png'> | --- | <img width='60' height='60' src='/deepCuriosity/img/cs188.png'> | -- |
+| ◻️ | [A Crash Course in Causality: Inferring Causal Effects from Observational Data](https://www.coursera.org/lecture/crash-course-in-causality/welcome-to-a-crash-course-in-causality-a1ZLH) | <img width='60' height='60' src='/deepCuriosity/img/penn.png'> | --- | <img width='60' height='60' src='/deepCuriosity/img/coursera.png'> | -- |
+| ◻️ | [Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/fa18/index.html) | <img width='60' height='60' src='/deepCuriosity/img/berkeley.png'> | --- | <img width='60' height='60' src='/deepCuriosity/img/cs188.png'> | -- |
 | ✔️ | [PyTorch Scholarship Challenge from Facebook](https://www.udacity.com/facebook-pytorch-scholarship) | <img width='60' height='60' src='/deepCuriosity/img/facebook.png'> | January&nbsp;2019 | <img width='60' height='60' src='/deepCuriosity/img/udacity.png'> | -- |
 | ◻️ | [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models) | <img width='60' height='60' src='/deepCuriosity/img/deeplearningai.png'> | --- | <img width='60' height='60' src='/deepCuriosity/img/coursera.png'> |  -- |
 | ✔️ | [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks) | <img width='60' height='60' src='/deepCuriosity/img/deeplearningai.png'> | December&nbsp;2017 | <img width='60' height='60' src='/deepCuriosity/img/coursera.png'> | -- | 
