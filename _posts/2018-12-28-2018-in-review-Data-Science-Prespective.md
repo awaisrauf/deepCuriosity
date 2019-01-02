@@ -3,11 +3,12 @@ title: Data-centric review of 2018 for Pakistan
 published: true
 ---
 [Github repository for code](https://github.com/awaisrauf/Pakistan-in-18)
-
+<p>
 As the end of the year 2018 is near, everyone is busy reviewing their year. Social media is filled with companies sharing their
 accomplishments, TV channels highlighting their contents, newspapers sharing most viewed articles and what not. Amidst this
 storm of reviews, I decided to add just another one. To make it a bit unique, I used my data science skills to review 2018 
 for Pakistan. 
+</p>
 
 To see major events that were happened in 2018, I scrapped a major Urdu news website. This news website is very
 active and posts articles about major updates every day. The data contained around 20k articles with around 300k words. After some 
