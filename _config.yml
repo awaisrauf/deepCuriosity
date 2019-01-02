@@ -1,11 +1,13 @@
 # Site settings
 title: Deep Curiosity
 description: "My personal blog"
+avatar: https://i.pinimg.com/originals/96/49/0b/96490b41c31620203288c84a071026c9.png
 url: 
 author:
   name: "Muhammad Awais"
   email: "iawaisrauf@gmail.com"
   url: ""
+  
 
 # Build settings
 baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
@@ -16,7 +18,6 @@ permalink: /:title
 paginate: 8
 paginate_path: /page:num/
 
-avatar: "/img/qmark.png"
 
 # Default values
 defaults:
