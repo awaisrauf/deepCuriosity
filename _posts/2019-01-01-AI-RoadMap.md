@@ -7,10 +7,12 @@ published: true
 
 
 ### Why this?
+
 According to many [studies in psychology](https://www.psychologytoday.com/us/blog/am-i-right/201404/the-astonishing-power-social-pressure),
  social pressure can force us to do things that we may not do otherwise. While social pressure can do cause harm (for instance, depression when we compare ourselves with others in terms of social status), I have found an interesting hack to use it for betterment. Recently, I observed whenever I share my ongoing work on social media, I tend to complete it on time. For instance, Once, I pledged to read a long and dry book on Facebook. Surprisingly, I completed it in record time. Similarly, when I made the [bookshelf](https://awaisrauf.github.io/bookshelf/) to track my readings, my speed and interest increased suddenly. Looking at this, I decided to use this hack in even better way: by introducing it in my learning curve of artificial intelligence.
 
- ### Why AI?
+### Why AI?
+
 Kai-Fu nominated artificial intelligence as fourth industrial revolution after steam engine, electricity and ICT in his recent [book](https://www.goodreads.com/book/show/38242135-ai-superpowers).
  Andrew Ng called it [electricity of the future](https://medium.com/syncedreview/artificial-intelligence-is-the-new-electricity-andrew-ng-cc132ea6264).
  Due to its utmost importance, I decided to make a career out of it in 2017 when I started working with [Spider Lab](http://spider.itu.edu.pk).
