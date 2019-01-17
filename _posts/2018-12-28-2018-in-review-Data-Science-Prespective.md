@@ -1,6 +1,7 @@
 ---
 title: Data-centric review of 2018 for Pakistan
 published: true
+comments: true
 ---
 [Github repository for code](https://github.com/awaisrauf/Pakistan-in-18)
 <p>
