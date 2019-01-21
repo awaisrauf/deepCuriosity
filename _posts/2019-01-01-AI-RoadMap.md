@@ -32,6 +32,8 @@ related to sub-fields of artificial intelligence, machine learning, data science
 
 |  | **Name** | **School** | **End Date** | **Platform** |**Certificate** |
 | ---------- | ----- | ------ | --------- | ------------ |----- |  
+| ◻️ | [Sparse Representations in Image Processing: From Theory to Practice](https://www.edx.org/course/sparse-representations-in-image-processing-from-theory-to-practice-0) | <img width='60' height='60' src='/deepCuriosity/img/israelx.png'> | --- | <img width='60' height='60' src='/deepCuriosity/img/edx.png'> | -- |
+| ◻️ | [Sparse Representations in Signal and Image Processing: Fundamentals](https://www.edx.org/course/sparse-representations-in-signal-and-image-processing-fundamentals-1) | <img width='60' height='60' src='/deepCuriosity/img/israelx.png'> | --- | <img width='60' height='60' src='/deepCuriosity/img/edx.png'> | -- |
 | ◻️ | [A Crash Course in Causality: Inferring Causal Effects from Observational Data](https://www.coursera.org/lecture/crash-course-in-causality/welcome-to-a-crash-course-in-causality-a1ZLH) | <img width='60' height='60' src='/deepCuriosity/img/penn.png'> | --- | <img width='60' height='60' src='/deepCuriosity/img/coursera.png'> | -- |
 | ◻️ | [Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/fa18/index.html) | <img width='60' height='60' src='/deepCuriosity/img/berkeley.png'> | --- | <img width='60' height='60' src='/deepCuriosity/img/cs188.png'> | -- |
 | ◻️ | [Bayesian Methods for Machine Learning](https://www.coursera.org/learn/bayesian-methods-in-machine-learning) | <img width='60' height='60' src='/deepCuriosity/img/hse.png'> | -- | <img width='60' height='60' src='/deepCuriosity/img/coursera.png'> | -- |
