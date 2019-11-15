@@ -1,6 +1,4 @@
 ---
----
----
 title: ICCV 2019 at Seoul
 published: True
 ---
