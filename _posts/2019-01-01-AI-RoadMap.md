@@ -6,26 +6,29 @@ published: true
 
 
 
-### Why this?
+### Why am I sharing it here?
 
 According to many [studies in psychology](https://www.psychologytoday.com/us/blog/am-i-right/201404/the-astonishing-power-social-pressure),
- social pressure can force us to do things that we may not do otherwise. While social pressure can do cause harm (for instance, depression when we compare ourselves with others in terms of social status), I have found an interesting hack to use it for betterment. Recently, I observed whenever I share my ongoing work on social media, I tend to complete it on time. For instance, Once, I pledged to read a long and dry book on Facebook. Surprisingly, I completed it in record time. Similarly, when I made the [bookshelf](https://awaisrauf.github.io/bookshelf/) to track my readings, my speed and interest increased suddenly. Looking at this, I decided to use this hack in an even better way: by introducing it in my learning curve of artificial intelligence.
+ social pressure can force us to do things that we may not do otherwise. While social pressure can cause harm (for instance, depression when we compare ourselves with others in terms of social status), I have found an interesting hack to use it for improvement. Recently, I observed whenever I share my ongoing work on social media, I tend to complete it on time. For instance, once, I pledged to read a long and dry book on Facebook. Surprisingly, I completed it in record time. Similarly, when I made the [bookshelf](https://awaisrauf.github.io/bookshelf/) to track my readings, my speed and interest increased suddenly. Looking at this, I decided to use this hack in an even better way: by introducing it in my learning curve of artificial intelligence.
 
 ### Why AI?
 
 Kai-Fu nominated artificial intelligence as the fourth industrial revolution after the steam engine, electricity and ICT in his recent [book](https://www.goodreads.com/book/show/38242135-ai-superpowers).
  Andrew Ng called it [electricity of the future](https://medium.com/syncedreview/artificial-intelligence-is-the-new-electricity-andrew-ng-cc132ea6264).
- Due to its utmost importance, I decided to make a career out of it in 2017 when I started working with [Spider Lab](http://spider.itu.edu.pk).
+ Due to its utmost importance, I decided to make a career out of it in 2016 when I started working with [Spider Lab](http://spider.itu.edu.pk).
  While I have learned and achieved a lot (completed many online courses,
  became [TA for ML course](https://awaisrauf.github.io/ee512/),
  [won a data science competition](https://propakistani.pk/2018/08/01/first-ever-election-prediction-contest-in-pakistan-concludes/),
- [published a paper in NeurIPS workshop](https://awaisrauf.github.io/xray-denoising) and will be starting my Ph.D. in this field soon) since, 
- I think this is not enough. The field is accelerating rapidly, [double exponential according to Elon Musk](https://www.youtube.com/watch?v=S3PV9xMSfSs). To cope with this pace and to complete my AI related dreams, I have decided to pledge to complete at least 100 courses and books on this field in the next 3 years.
- I also have decided to systematically track and share my progress thereby using the "magic" of social pressure. I will use this page to track and share these pledges for this road map. 
+ [published a paper in NeurIPS workshop](https://awaisrauf.github.io/xray-denoising) and will be starting my Ph.D. in this field soon) since then, I think this is not enough. The field is accelerating rapidly, [double exponential according to Elon Musk](https://www.youtube.com/watch?v=S3PV9xMSfSs). To cope with this pace and to complete my AI related dreams, I have decided to pledge to complete at least 100 courses and books on this field in the next 3 years.
+ I also have decided to systematically track and share my progress thereby using the "magic" of social pressure. I will use this page to track and share these pledges for this road map. I am intentionally making the bar much higher than normal expectations. Let's see how it turns out. I will keep on adding things in this list to make it even better. 
  
+### Goals 
+1. To be an expert in the field by the end of my PhD. 
+2. To understand many different sub-fields of AI while becoming an expert in one specific field. 
+3. Research
+4. .....
 
-
-### 1. Courses
+## 1. Courses
 This section will act as a to-do list of all the courses I have completed recently or wanted to complete in the future. All the courses are related to sub-fields of artificial intelligence, machine learning, data science, and statistics. In a specific order of completion.
 
 
@@ -54,7 +57,7 @@ This section will act as a to-do list of all the courses I have completed recent
 
 
 
-### 2. Books
+## 2. Books
 
 This section is a to-do list of books I want to read. These books primarily cover the core concepts of my AI-related fields. 
 
