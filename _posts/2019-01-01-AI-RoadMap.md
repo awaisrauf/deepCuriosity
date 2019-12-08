@@ -30,7 +30,7 @@ This section will act as to-do list of all the courses I have completed recently
 related to sub-fields of artificial intelligence, machine learning, data science and statistics. In specific order of completion.
 
 
-|  | **Name** | **School** | **End Date** | **Platform** |**Certificate** |
+|  **Name** | **School** | **End Date** | **Platform** |**Certificate** |
 | ---------- | ----- | ------ | --------- | ------------ |----- |  
 
 | ◻️ | [Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming) | <img width='60' height='60' src='/deepCuriosity/img/Michigan.jpg'> | --- | <img width='60' height='60' src='/deepCuriosity/img/coursera.png'> | -- |
