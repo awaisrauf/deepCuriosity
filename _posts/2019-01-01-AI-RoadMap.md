@@ -79,7 +79,7 @@ This section is a to-do list of books I want to read. These books primarily cove
 |  | **Title** | **Author** | **Release Date** | 
 | ---------- | ----- | ------ | ------------ |
 | ◻️ | [Naked Statistics: Stripping the Dread from the Data](https://www.goodreads.com/book/show/17986418-naked-statistics) | Charles Wheelan| 2014 | 
-| ◻️ | [The Book of Why: The New Science of Cause and Effect](https://www.goodreads.com/book/show/36204378-the-book-of-why) | Judea Pearl,  Dana Mackenzie | 2018 | 
+| ✔️ | [The Book of Why: The New Science of Cause and Effect](https://www.goodreads.com/book/show/36204378-the-book-of-why) | Judea Pearl,  Dana Mackenzie | 2018 | 
 | ✔️ | [Fooled by Randomness](https://en.wikipedia.org/wiki/Fooled_by_Randomness) | Nassim Nicholas Taleb | 2001 | 
 | ✔️ | [AI Superpowers](https://www.goodreads.com/book/show/38242135-ai-superpowers) | Kai-Fu Lee | September 2018 | 
 | ✔️ | [The Master Algorithm](https://www.goodreads.com/book/show/24612233-the-master-algorithm) | Pedro Domingos| September 2015 | 
