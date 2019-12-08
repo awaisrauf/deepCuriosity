@@ -29,9 +29,8 @@ Kai-Fu nominated artificial intelligence as the fourth industrial revolution aft
 This section will act as a to-do list of all the courses I have completed recently or wanted to complete in the future. All the courses are related to sub-fields of artificial intelligence, machine learning, data science, and statistics. In a specific order of completion.
 
 
-|  **Name** | **School** | **End Date** | **Platform** |**Certificate** |
+|  |**Name** | **School** | **End Date** | **Platform** |**Certificate** |
 | ---------- | ----- | ------ | --------- | ------------ |----- |  
-
 | ◻️ | [Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming) | <img width='60' height='60' src='/deepCuriosity/img/Michigan.jpg'> | --- | <img width='60' height='60' src='/deepCuriosity/img/coursera.png'> | -- |
 | ◻️ | [Sparse Representations in Image Processing: From Theory to Practice](https://www.edx.org/course/sparse-representations-in-image-processing-from-theory-to-practice-0) | <img width='60' height='60' src='/deepCuriosity/img/israelx.png'> | --- | <img width='60' height='60' src='/deepCuriosity/img/edx.png'> | -- |
 | ◻️ | [Sparse Representations in Signal and Image Processing: Fundamentals](https://www.edx.org/course/sparse-representations-in-signal-and-image-processing-fundamentals-1) | <img width='60' height='60' src='/deepCuriosity/img/israelx.png'> | --- | <img width='60' height='60' src='/deepCuriosity/img/edx.png'> | -- |
