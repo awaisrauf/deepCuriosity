@@ -31,20 +31,24 @@ Kai-Fu nominated artificial intelligence as the fourth industrial revolution aft
 ## 1. Courses
 This section will act as a to-do list of all the courses I have completed recently or wanted to complete in the future. All the courses are related to sub-fields of artificial intelligence, machine learning, data science, and statistics. In a specific order of completion.
 
-
+### Track 1: Computer Science
 |  |**Name** | **School** | **End Date** | **Platform** |**Certificate** |
 | ---------- | ----- | ------ | --------- | ------------ |----- |  
 | ◻️ | [Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming) | <img width='60' height='60' src='/deepCuriosity/img/Michigan.jpg'> | --- | <img width='60' height='60' src='/deepCuriosity/img/coursera.png'> | -- |
-| ◻️ | [Sparse Representations in Image Processing: From Theory to Practice](https://www.edx.org/course/sparse-representations-in-image-processing-from-theory-to-practice-0) | <img width='60' height='60' src='/deepCuriosity/img/israelx.png'> | --- | <img width='60' height='60' src='/deepCuriosity/img/edx.png'> | -- |
-| ◻️ | [Sparse Representations in Signal and Image Processing: Fundamentals](https://www.edx.org/course/sparse-representations-in-signal-and-image-processing-fundamentals-1) | <img width='60' height='60' src='/deepCuriosity/img/israelx.png'> | --- | <img width='60' height='60' src='/deepCuriosity/img/edx.png'> | -- |
+| ✔️ | [CS50: Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) | <img width='60' height='60' src='/deepCuriosity/img/harvard.png'> | Dec&nbsp;2016 | <img width='60' height='60' src='/deepCuriosity/img/edx.png'> | -- | 
+| ◻ | [CS50W: Web Programming with Python and JavaScript](https://courses.edx.org/courses/course-v1:HarvardX+CS50W+Web/) | <img width='60' height='60' src='/deepCuriosity/img/harvard.png'> | - | <img width='60' height='60' src='/deepCuriosity/img/edx.png'> | -- |
+
+### Track 2: Artifical Intellgence and Machine Learning 
+
+|  |**Name** | **School** | **End Date** | **Platform** |**Certificate** |
+| ---------- | ----- | ------ | --------- | ------------ |----- |  
 | ◻️ | [A Crash Course in Causality: Inferring Causal Effects from Observational Data](https://www.coursera.org/lecture/crash-course-in-causality/welcome-to-a-crash-course-in-causality-a1ZLH) | <img width='60' height='60' src='/deepCuriosity/img/penn.png'> | --- | <img width='60' height='60' src='/deepCuriosity/img/coursera.png'> | -- |
 | ◻️ | [Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/fa18/index.html) | <img width='60' height='60' src='/deepCuriosity/img/berkeley.png'> | --- | <img width='60' height='60' src='/deepCuriosity/img/cs188.png'> | -- |
 | ◻️ | [Bayesian Methods for Machine Learning](https://www.coursera.org/learn/bayesian-methods-in-machine-learning) | <img width='60' height='60' src='/deepCuriosity/img/hse.png'> | -- | <img width='60' height='60' src='/deepCuriosity/img/coursera.png'> | -- |
 | ◻️ | [Mining Massive Datasets](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+MMDS+SelfPaced/) | <img width='60' height='60' src='/deepCuriosity/img/stanford.png'> | -- | <img width='60' height='60' src='/deepCuriosity/img/lagunita.png'> | -- |
 | ◻️ | [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/index.html) | <img width='60' height='60' src='/deepCuriosity/img/stanford.png'> | -- | <img width='60' height='60' src='/deepCuriosity/img/nlp.gif'> | -- |
 | ◻️ | [Sequence Models for Time Series and Natural Language Processing](https://www.coursera.org/learn/sequence-models-tensorflow-gcp) | <img width='60' height='60' src='/deepCuriosity/img/google_cloud.png'> | -- | <img width='60' height='60' src='/deepCuriosity/img/coursera.png'> | -- |
-| ◻️ | [Natural Language Processing with Dan Jurafsky and Chris Manning](https://www.youtube.com/playlist?list=PLoROMvodv4rOFZnDyrlW3-nI7tMLtmiJZ) | <img width='60' height='60' src='/deepCuriosity/img/stanford.png'> | -- | <img width='60' height='60' src='/deepCuriosity/img/coursera.png'> | -- |
-| ◻ | [CS50W: Web Programming with Python and JavaScript](https://courses.edx.org/courses/course-v1:HarvardX+CS50W+Web/) | <img width='60' height='60' src='/deepCuriosity/img/harvard.png'> | - | <img width='60' height='60' src='/deepCuriosity/img/edx.png'> | -- | 
+| ◻️ | [Natural Language Processing with Dan Jurafsky and Chris Manning](https://www.youtube.com/playlist?list=PLoROMvodv4rOFZnDyrlW3-nI7tMLtmiJZ) | <img width='60' height='60' src='/deepCuriosity/img/stanford.png'> | -- | <img width='60' height='60' src='/deepCuriosity/img/coursera.png'> | -- | 
 | ✔️ | [PyTorch Scholarship Challenge from Facebook](https://www.udacity.com/facebook-pytorch-scholarship) | <img width='60' height='60' src='/deepCuriosity/img/facebook.png'> | January&nbsp;2019 | <img width='60' height='60' src='/deepCuriosity/img/udacity.png'> | -- |
 | ◻️ | [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models) | <img width='60' height='60' src='/deepCuriosity/img/deeplearningai.png'> | --- | <img width='60' height='60' src='/deepCuriosity/img/coursera.png'> |  -- |
 | ✔️ | [CS 20SI: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/2017/)| <img width='60' height='60' src='/deepCuriosity/img/stanford.png'> | June 2018 | <img width='60' height='60' src='/deepCuriosity/img/tensorflow.jpg'> | -- |
@@ -52,8 +56,16 @@ This section will act as a to-do list of all the courses I have completed recent
 | ✔️ | [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects) | <img width='60' height='60' src='/deepCuriosity/img/deeplearningai.png'> | November&nbsp;2017 | <img width='60' height='60' src='/deepCuriosity/img/coursera.png'> |  -- |
 | ✔️ | [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network) | <img width='60' height='60' src='/deepCuriosity/img/deeplearningai.png'> | November&nbsp;2017 | <img width='60' height='60' src='/deepCuriosity/img/coursera.png'> | -- | 
 | ✔️ | [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) | <img width='60' height='60' src='/deepCuriosity/img/deeplearningai.png'> | September&nbsp;2017 | <img width='60' height='60' src='/deepCuriosity/img/coursera.png'> |  -- |
-| ✔️ | [CS50: Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) | <img width='60' height='60' src='/deepCuriosity/img/harvard.png'> | Dec&nbsp;2016 | <img width='60' height='60' src='/deepCuriosity/img/edx.png'> | -- | 
 
+### Track 3: Signal Processing 
+|  |**Name** | **School** | **End Date** | **Platform** |**Certificate** |
+| ---------- | ----- | ------ | --------- | ------------ |----- |  
+| ◻️ | [Sparse Representations in Image Processing: From Theory to Practice](https://www.edx.org/course/sparse-representations-in-image-processing-from-theory-to-practice-0) | <img width='60' height='60' src='/deepCuriosity/img/israelx.png'> | --- | <img width='60' height='60' src='/deepCuriosity/img/edx.png'> | -- |
+| ◻️ | [Sparse Representations in Signal and Image Processing: Fundamentals](https://www.edx.org/course/sparse-representations-in-signal-and-image-processing-fundamentals-1) | <img width='60' height='60' src='/deepCuriosity/img/israelx.png'> | --- | <img width='60' height='60' src='/deepCuriosity/img/edx.png'> | -- |
+
+### Track 4: Mathematics
+
+### Track 5: Neuroscience and Psychology 
 
 
 
