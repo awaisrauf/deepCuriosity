@@ -68,6 +68,7 @@ This section will act as a to-do list of all the courses I have completed recent
 ### Track 4: Mathematics
 
 ### Track 5: Neuroscience and Psychology 
+- Track on Neuroscience by Harvard https://online-learning.harvard.edu/course/fundamentals-neuroscience-part-1-electrical-properties-neuron
 
 
 
