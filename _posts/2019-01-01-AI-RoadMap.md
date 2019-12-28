@@ -68,18 +68,24 @@ This section will act as a to-do list of all the courses I have completed recent
 ### Track 4: Mathematics
 
 ### Track 5: Neuroscience and Psychology 
-- Track on Neuroscience by Harvard https://online-learning.harvard.edu/course/fundamentals-neuroscience-part-1-electrical-properties-neuron
+|  |**Name** | **School** | **End Date** | **Platform** |**Certificate** |
+| ---------- | ----- | ------ | --------- | ------------ |----- |  
+| ◻️ | [Fundamentals of Neuroscience, Part 1: The Electrical Properties of the Neuron](https://www.edx.org/course/fundamentals-of-neuroscience-part-1-the-electrical) | <img width='60' height='60' src='/deepCuriosity/img/harvard.png'> | --- | <img width='60' height='60' src='/deepCuriosity/img/edx.png'> | -- |
+| ◻️ | [Fundamentals of Neuroscience, Part 2: Neurons and Networks](https://www.edx.org/course/fundamentals-of-neuroscience-part-2-neurons-and-ne) | <img width='60' height='60' src='/deepCuriosity/img/harvard.png'> | --- | <img width='60' height='60' src='/deepCuriosity/img/edx.png'> | -- |
+| ◻️ | [Fundamentals of Neuroscience, Part 3: The Brain](https://www.edx.org/course/fundamentals-of-neuroscience-part-3-the-brain) | <img width='60' height='60' src='/deepCuriosity/img/harvard.png'> | --- | <img width='60' height='60' src='/deepCuriosity/img/edx.png'> | -- |
+
 
 
 
 ## 2. Books
 
-This section is a to-do list of books I want to read. These books primarily cover the core concepts of my AI-related fields. 
+This section is a to-do list of books I want to read to better understand the overall landscape of artificial intelligence. These books primarily cover the core concepts of fields related to Artificial Intelligence.  
 
 
 |  | **Title** | **Author** | **Release Date** | 
 | ---------- | ----- | ------ | ------------ |
 | ◻️ | [Naked Statistics: Stripping the Dread from the Data](https://www.goodreads.com/book/show/17986418-naked-statistics) | Charles Wheelan| 2014 | 
+| ✔️ | [Rebooting AI: Building Artificial Intelligence We Can Trust](https://www.goodreads.com/book/show/43999120-rebooting-ai) | Gary F. Marcus, Ernest Davis| 2019 |
 | ✔️ | [The Book of Why: The New Science of Cause and Effect](https://www.goodreads.com/book/show/36204378-the-book-of-why) | Judea Pearl,  Dana Mackenzie | 2018 | 
 | ✔️ | [Fooled by Randomness](https://en.wikipedia.org/wiki/Fooled_by_Randomness) | Nassim Nicholas Taleb | 2001 | 
 | ✔️ | [AI Superpowers](https://www.goodreads.com/book/show/38242135-ai-superpowers) | Kai-Fu Lee | September 2018 | 
