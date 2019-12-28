@@ -68,6 +68,7 @@ This section will act as a to-do list of all the courses I have completed recent
 ### Track 4: Mathematics
 
 ### Track 5: Neuroscience and Psychology 
+
 |  |**Name** | **School** | **End Date** | **Platform** |**Certificate** |
 | ---------- | ----- | ------ | --------- | ------------ |----- |  
 | ◻️ | [Fundamentals of Neuroscience, Part 1: The Electrical Properties of the Neuron](https://www.edx.org/course/fundamentals-of-neuroscience-part-1-the-electrical) | <img width='60' height='60' src='/deepCuriosity/img/harvard.png'> | --- | <img width='60' height='60' src='/deepCuriosity/img/edx.png'> | -- |
