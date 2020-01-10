@@ -67,6 +67,7 @@ This section will act as a to-do list of all the courses I have completed recent
 | ◻️ | [Sparse Representations in Signal and Image Processing: Fundamentals](https://www.edx.org/course/sparse-representations-in-signal-and-image-processing-fundamentals-1) | <img width='60' height='60' src='/deepCuriosity/img/israelx.png'> | --- | <img width='60' height='60' src='/deepCuriosity/img/edx.png'> | -- |
 
 ### Track 4: Mathematics (Calculs, Linear Algebra😍, Probability, Statistics)
+
 |  |**Name** | **School** | **End Date** | **Platform** |**Certificate** |
 | ---------- | ----- | ------ | --------- | ------------ |----- |  
 | ◻️ | [Statistical Reasoning](https://lagunita.stanford.edu/courses/OLI/StatReasoning/Open/course/) | <img width='60' height='60' src='/deepCuriosity/img/standford.png'> | --- | <img width='60' height='60' src='/deepCuriosity/img/lagunita.png'> | -- |
