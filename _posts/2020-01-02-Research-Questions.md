@@ -25,7 +25,7 @@ NAS has gain a lot of attention recently. Most of the SOTA models in Computer Vi
 ### Question 4: Can we use NAS to get neural networks for different domains? 
 General neural networks (Multilayer perceptrons) are can not be used for any domain as they are. We need to add some prior structure about the the domain into these networks to make them more useful. For instance, in order to make them work for computer vision, we have added convolutions which is a prior about image structures. This is shwon in [Deep Image Prior](https://dmitryulyanov.github.io/deep_image_prior). Similary, for natural language problems, we have RNNs which uses notion of time or sequence which is a big prior about natural language. 
 
+But it is hard to add this kind of prior into every new problem. For instance, if we are trying to use map spectroscopy to soil chemical properties, we need to add prior about general chemistry. Similar things can be said about many other class of problems. My question is, **Can we use NAS to find this kind of priors?**
+
 ### Question 5: What causes Adversarial attacks successful?
 Train a network normally, check it for its train and validation set for adversarial attacks. If adversarial performance on train set is much better than the validation set, isn't it means that the network has learned useless, non-generalizable features? 
-
-But it is hard to add this kind of prior into every new problem. For instance, if we are trying to use map spectroscopy to soil chemical properties, we need to add prior about general chemistry. Similar things can be said about many other class of problems. My question is, **Can we use NAS to find this kind of priors?**
