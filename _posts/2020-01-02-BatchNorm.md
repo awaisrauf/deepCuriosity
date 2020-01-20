@@ -1,8 +1,14 @@
 
 ---
-title: Research Questions
-published: false
+title: BatchNormalization
+published: true
 ---
+<!DOCTYPE html>
+<html>
+<head>
+<script type="text/javascript" src="path-to-javascript-file.js"></script>
+<link rel="stylesheet" type="text/css" href="mystyle.css">
+</head>
 <div class="container">
   <div class="header">
 
@@ -386,3 +392,4 @@ published: false
     </div>
   </div>
 </div>
+</html>
