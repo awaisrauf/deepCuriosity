@@ -6,8 +6,8 @@ published: true
 <!DOCTYPE html>
 <html>
 <head>
-<script type="text/javascript" src="path-to-javascript-file.js"></script>
-<link rel="stylesheet" type="text/css" href="mystyle.css">
+<script type="text/javascript" src="https://raw.githubusercontent.com/awaisrauf/deepCuriosity/master/js/bn.js"></script>
+<link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/awaisrauf/deepCuriosity/master/css/bn.css">
 </head>
 <div class="container">
   <div class="header">
