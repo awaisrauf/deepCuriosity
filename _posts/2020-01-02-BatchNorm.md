@@ -1,8 +1,5 @@
 
----
-title: BatchNormalization
-published: true
----
+
 <!DOCTYPE html>
 <html>
 <head>
