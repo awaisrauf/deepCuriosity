@@ -80,6 +80,8 @@ This section will act as a to-do list of all the courses I have completed recent
 | ◻️ | [Fundamentals of Neuroscience, Part 1: The Electrical Properties of the Neuron](https://www.edx.org/course/fundamentals-of-neuroscience-part-1-the-electrical) | <img width='60' height='60' src='/deepCuriosity/img/harvard.png'> | --- | <img width='60' height='60' src='/deepCuriosity/img/edx.png'> | -- |
 | ◻️ | [Fundamentals of Neuroscience, Part 2: Neurons and Networks](https://www.edx.org/course/fundamentals-of-neuroscience-part-2-neurons-and-ne) | <img width='60' height='60' src='/deepCuriosity/img/harvard.png'> | --- | <img width='60' height='60' src='/deepCuriosity/img/edx.png'> | -- |
 | ◻️ | [Fundamentals of Neuroscience, Part 3: The Brain](https://www.edx.org/course/fundamentals-of-neuroscience-part-3-the-brain) | <img width='60' height='60' src='/deepCuriosity/img/harvard.png'> | --- | <img width='60' height='60' src='/deepCuriosity/img/edx.png'> | -- |
+| ◻️ | [How to Build a Brain from Scratch](https://humaninformationprocessing.com/teaching/) | <img width='60' height='60' src='/deepCuriosity/img/oxford.png'> | --- | <img width='60' height='60' src='/deepCuriosity/img/oxford.png'> | -- |
+
 
 
 
