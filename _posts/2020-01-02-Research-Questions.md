@@ -3,7 +3,7 @@ title: Research Questions
 published: false
 ---
 
-Following are some of reserach questions that came to my mind while tinkering through scientific literature. Many questions are probably naive and due to my lack of understanding of literature. 
+Following are some of reserach questions that came to my mind while tinkering through scientific literature. Expect some of the questions to be naive and due to my lack of understanding of relevant literature. 
 
 ### Question 1: Why Augmentation helps?
 Recently, there are many diffeernt augmentation papers have been introduced. From information theory prespecitve, augementation should not work as [Data Processing Inequailty](https://en.wikipedia.org/wiki/Data_processing_inequality) suggests. DPI shows that we can not increase information of a signal by doing clever data engnineering if these engineering don't add any external information. As far as, I understand, most of the augmentation techniques are simple functions? and they are not adding any prior into the data.
@@ -29,3 +29,5 @@ But it is hard to add this kind of prior into every new problem. For instance, i
 
 ### Question 5: What causes Adversarial attacks successful?
 Train a network normally, check it for its train and validation set for adversarial attacks. If adversarial performance on train set is much better than the validation set, isn't it means that the network has learned useless, non-generalizable features? 
+
+### Question 6: How important is Linear Transformation in BatchNormalization?
