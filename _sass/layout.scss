@@ -1,9 +1,7 @@
 /* -- General Layout -- */
 
 /* Navigation */
-p {
-  text-align: justify;
-}
+
 #nav, #nav-left { 
   a {
     display: block;
@@ -137,6 +135,9 @@ p {
   	font-family: 'Signika', sans-serif; //Emerald logo font
     font-weight: 600;
   }
+p {
+  text-align: justify;
+}
   &:after {
   	display: block;
     content: '';
