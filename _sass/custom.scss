@@ -93,6 +93,10 @@ th, td {
     text-align: center;
 }
 
+p {
+  text-align: justify;
+}
+
 td:first-child {
 	font-weight: bold;
 	text-align: left;
@@ -103,4 +107,8 @@ td:first-child {
 	border: 1px solid #ccc;
 	border-radius: 4px;
     padding: 0 4px;
+}
+.page__content {
+
+  text-align: justify;
 }
