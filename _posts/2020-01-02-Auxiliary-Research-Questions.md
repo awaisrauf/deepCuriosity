@@ -7,9 +7,9 @@ I often came across "auxiliary" research questions while tinkering through scien
  
 
 ### Question 1: Why Augmentation helps?
-Recently, there are many different augmentation papers have been introduced. From an information theory perspective, augmentation should not work as [Data Processing Inequailty](https://en.wikipedia.org/wiki/Data_processing_inequality) suggests. DPI shows that we can not increase information on a signal by doing clever data engineering if this engineering doesn't add any external information. As far as, I understand, most of the augmentation techniques are simple functions? and they are not adding any prior to the data.
+There are many different augmentation methods where you apply a function on existing data and augment these "extra" data alongside to get performance boost. From an information theory perspective, augmentation should not work as suggested by [Data Processing Inequailty(DPI)](https://en.wikipedia.org/wiki/Data_processing_inequality). DPI shows that we can not increase information on a signal by doing clever data engineering if this engineering does not add any external information. As far as I understand, most of the augmentation techniques are simple functions? and they are not adding any prior in the data?
 
-One naive hypothesis is that augmentation only increases the number of times a neural network sees the same signal. But then, accuracy should improve even if we use some random augmentation or if we use simply copy the data? 
+My naive hypothesis is that augmentation only increases the number of times a neural network sees the same signal with a bit different way. But then, accuracy should improve even if we use some random augmentation or if we simply copy the data? 
 **Relevant Readings**
 1. Local features are more important [paper](https://openreview.net/forum?id=SkfMWhAqYQ) 
 2. CNNs look for texture more than shape [paper](https://openreview.net/forum?id=Bygh9j09KX)
