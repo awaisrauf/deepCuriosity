@@ -1,9 +1,10 @@
 ---
-title: Research Questions
+title: Auxiliary Research Questions
 published: True
 ---
 
-The following are some of the reserach questions that came to my mind while tinkering through scientific literature and playing with deep neural networks. I am adding them here so that I can answer them later on as I found time for the experiments or reading. You can give your feedback at awais@khu.ac.kr. 
+I often came across "auxiliary" research questions while tinkering through scientific literature or playing with deep neural networks. It is hard to answer them without being distracted from the main problem. Therefore, I am adding them here so that I can answer them later on as I found time for the experiments or reading. You can give your feedback at awais@khu.ac.kr. 
+ 
 
 ### Question 1: Why Augmentation helps?
 Recently, there are many different augmentation papers have been introduced. From an information theory perspective, augmentation should not work as [Data Processing Inequailty](https://en.wikipedia.org/wiki/Data_processing_inequality) suggests. DPI shows that we can not increase information on a signal by doing clever data engineering if this engineering doesn't add any external information. As far as, I understand, most of the augmentation techniques are simple functions? and they are not adding any prior to the data.
