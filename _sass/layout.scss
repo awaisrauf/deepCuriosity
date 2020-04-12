@@ -135,9 +135,7 @@
   	font-family: 'Signika', sans-serif; //Emerald logo font
     font-weight: 600;
   }
-p {
-  text-align: justify;
-}
+
   &:after {
   	display: block;
     content: '';
@@ -196,6 +194,9 @@ img {
      -moz-border-radius: 4px;
       -ms-border-radius: 4px;
           border-radius: 4px;
+}
+p {
+  text-align: justify;
 }
 
 img[title="Emerald"] {
