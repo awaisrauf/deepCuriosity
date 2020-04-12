@@ -31,8 +31,16 @@ General neural networks (Multilayer perceptrons) are can not be used for any dom
 
 But it is hard to add this kind of prior to every new problem. For instance, if we are trying to use map spectroscopy to soil chemical properties, we need to add prior to general chemistry. Similar things can be said about many other classes of problems. My question is, **Can we use NAS to find this kind of priors?**
 
+**Relevant Literature** 
+1. Designing Network Design Spaces
+2. [Data-Driven Sparse Structure Selection for Deep NeuralNetworks]
+3. [Are Labels Necessary for Neural Architecture Search?](https://arxiv.org/pdf/2003.12056.pdf)
+
 ### Question 5: What causes Adversarial attacks successful?
 Train a network normally, check it for its train and validation set for adversarial attacks. If adversarial performance on the train set is much better than the validation set, isn't it means that the network has learned useless, non-generalizable features? 
+
+**Relevant Paper**
+1. https://distill.pub/2019/advex-bugs-discussion/
 
 ### Question 6: How important is Linear Transformation in BatchNormalization?
 
