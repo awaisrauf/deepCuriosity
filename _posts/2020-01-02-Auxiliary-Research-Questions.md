@@ -2,7 +2,7 @@
 title: Auxiliary Research Questions
 published: True
 ---
-<headers> <meta property="og:image" content="YOURIMAGEURLGOESHERE.JPG"> </headers>
+<headers> <meta property="og:image" content="https://raw.githubusercontent.com/awaisrauf/deepCuriosity/master/img/nn.jpg"> </headers>
 
 I often came across "auxiliary" research questions while tinkering through scientific literature or playing with deep neural networks. It is hard to answer them without being distracted from the main problem. Therefore, I am adding them here so that I can answer them later on as I found time for the experiments or reading. You can give your feedback at awais@khu.ac.kr. 
  
