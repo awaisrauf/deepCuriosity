@@ -1,6 +1,6 @@
 ---
 title: My resolutions about AI and why I am sharing it
-published: true
+published: false
 ---
 
 
