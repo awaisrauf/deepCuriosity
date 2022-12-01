@@ -4,7 +4,7 @@ published: True
 tags: [research, experiences]
 ---
  
-With the fast pace advancements in the machine learning community, conferences have become the frontier of the field. Unlike many other sciences, most of the research in machine learning is presented at these conferences. International Conference on Computer Vision (ICCV) is one such venue that is considered to be the top venue in both deep learning and computer vision. [ICCV19](http://iccv2019.thecvf.com/) was held in Seoul last week. I had the honor to attend it, thanks to my professor [Dr. Sung-Ho Bae]. I had such a great experience and I am tempted to share it here. 
+With the fast pace advancements in the machine learning community, conferences have become the frontier of the field. Unlike many other sciences, most of the research in machine learning is presented at these conferences. International Conference on Computer Vision (ICCV) is one such venue that is considered to be the top venue in both deep learning and computer vision. [ICCV19](http://iccv2019.thecvf.com/) was held in Seoul last week. I had the honor to attend it, thanks to my professor [Dr. Sung-Ho Bae]. I had such a great experience that I can not resist sharing it here. 
 
 ICCV is divided into two parts: the main conference and workshops and tutorials. The first two and last day was designated for workshops-tutorials.
 
