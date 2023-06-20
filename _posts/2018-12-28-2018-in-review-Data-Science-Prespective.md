@@ -1,14 +1,14 @@
 ---
-title: Data-centric review of 2018 for Pakistan
+title: Data-centric Review of 2018 for Pakistan
 published: true
 ---
 [GitHub repository for code](https://github.com/awaisrauf/Pakistan-in-18)
 
 <p>
-As the end of the year, 2018 is near, everyone is busy reviewing their year. Social media is filled with companies sharing their accomplishments, TV channels highlighting their contents, newspapers sharing the most viewed articles, and what not. Amidst this storm of reviews, I decided to add just another one. To make it a bit unique, I used my data science skills to review the 2018 for Pakistan.
+As the end of the year, 2018 is near, everyone is busy reviewing their year. Social media is filled with companies sharing their accomplishments, TV channels highlighting their contents, newspapers sharing the most viewed articles, and whatnot. Amidst this storm of reviews, I decided to add one more. To make it a bit unique, I used my data science skills to review 2018 for Pakistan.
 </p>
 
-To see major events that happened in 2018, I scrapped a prominent Urdu news website. This news website is very active and posts articles about major updates every day. The data contains around 20k articles with around 300k words. After some pre-processing and removal of stop words, I mined the following interesting analytics.
+To catch major events that happened in 2018, I scrapped a prominent Urdu news website. This news website is very active and posts articles about major updates everyday. The data I scrapped contains around 20k articles with around 300k words. After some pre-processing and stop-words removal, I mined the following interesting analytics.
 
 <p>
 <center>
@@ -17,25 +17,21 @@ To see major events that happened in 2018, I scrapped a prominent Urdu news webs
 </center>
 </p>
 
-Interestingly, this provides a clear account of 2018. For instance, 2018 was the year of the election, so there are a lot of words corresponding to it in this word cloud. Similarly, judicial activism and love for cricket can also be seen from this word cloud.
-
+Interestingly, this provides a clear account of 2018. For instance, 2018 was the year of the election, so there are a lot of words corresponding to it in this word cloud. Similarly, judicial activism and love for cricket is apparent from this word cloud.
 
 I posted this picture on the Pakistan.ai community, and someone asked me to make a similar world cloud for bi-grams. I have made one, and the picture got more clear. Bi-gram-based word cloud presents even better and clear happenings of 2019.  
-
 
 <p>
 <center>
 <img src="https://raw.githubusercontent.com/awaisrauf/deepCuriosity/master/img/28dec18_2.PNG">
-<em>Word cloud formed by bi-grams of text of all the articles. </em>    
+<em>Word cloud formed by bi-grams of the text of all the articles. </em>
 </center>
 </p>
 
-
 If these word clouds are to be believed, the election was overwhelmingly dominant in 2018. Imran Khan had the most mentions, closely followed
-by many N-League leaders. Other occupying events were related to judicial activism and cricket along with USA and Naqeeb-Anwar case. 
+by many N-League leaders. Other occupying events were related to judicial activism and cricket along with USA and Naqeeb-Anwar case.
 
 Another interesting thing is the frequency of articles posted in different sections. These statistics can show us the interest of Urdu readers (assuming that website knows it since it is operated by one of the biggest media houses in Pakistan).
-
 
 <p>
 <center>
@@ -43,12 +39,10 @@ Another interesting thing is the frequency of articles posted in different secti
 </center>
 </p>
 
-
-With no surprise, most of the articles were related to Pakistan and sports, which was evident from the word cloud as well. 
+With no surprise, most of the articles were related to Pakistan and sports, which was evident from the word cloud as well.
 
 I also had access to the tags and headlines of these articles. With almost no surprise, a word cloud formed with these two attributes
-presents a story very similar to the one presented by earlier word clouds. 
-
+presents a story very similar to the one presented by earlier word clouds.
 
 <p>
 <center>
@@ -65,8 +59,7 @@ presents a story very similar to the one presented by earlier word clouds.
 </p>
 
 Another interesting thing to see is the distribution of articles written and words used. It seems both of these distributions followed
-famous 80-20 rule, i.e., 80% of articles were written by 20% of authors. 
-
+famous 80-20 rule, i.e., 80% of articles were written by 20% of authors.
 
 <p>
 <center>
@@ -77,6 +70,4 @@ famous 80-20 rule, i.e., 80% of articles were written by 20% of authors.
 </center>
 </p>
 
-While these stats, in no way, presents a complete picture, they surely have an interesting story to tell. If you want me to mine another stat or have a similar "farmaish", please write me at iawaisrauf@gmail.com. 
-
-
+While these stats, in no way, presents a complete picture, they surely have an interesting story to tell. If you want me to mine another stat or have a similar "farmaish", please write me at iawaisrauf@gmail.com.

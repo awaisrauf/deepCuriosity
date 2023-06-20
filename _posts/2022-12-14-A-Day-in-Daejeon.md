@@ -2,7 +2,7 @@
 
 title: A Day in Daejeon, Korea
 
-published: True
+published: False
 
 tags: [experiences, travel]
 
