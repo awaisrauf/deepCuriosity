@@ -15,10 +15,11 @@
   	font-weight: 300;
   	color: #888;
   }
+//   do not need this since no background
   &:after {
-		height: 24px;
-		margin: 24px auto;
-		background: url(/img/arrow.svg) center no-repeat;
+		height: 0px;
+		margin: auto;
+		// background: url(/img/arrow.svg) center no-repeat;
 	}
 }
 

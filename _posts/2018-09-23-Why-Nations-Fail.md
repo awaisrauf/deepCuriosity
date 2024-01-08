@@ -26,8 +26,7 @@ This book presents a new theory to explain the reasons why some nations prosper 
 
 ### Lessons from History
 
-This book sees every historical event from the neolithic revolution, the Roman Empire's rise, and fall, the great Mayan civilization, European colonization,
- and the Glorious Revolution to the Industrial Revolution with a lens of inclusive-extractive institutions. Their theory suggests that sustainable growth is
+This book sees every historical event from the neolithic revolution, the Roman Empire's rise, and fall, the great Mayan civilization, European colonization, and the Glorious Revolution to the Industrial Revolution with a lens of inclusive-extractive institutions. Their theory suggests that sustainable growth is
  only possible if a country's system is pluralistic where the voice of many is heard and acted upon while countries with absolutist regimes tend to fail even if
  they got short-term success. One major example of this theory is how the British and the USA got so much prosperous while the Soviet Union, even after a short period
  of rapid growth fall behind. After Magna Carta in the thirteenth century, the power of the crown started to decline in Britain and parliament got more and
@@ -55,5 +54,4 @@ The book presents a lot of historical events from around the globe from the Neol
 
 ### Answers to my questions
 
-Lastly, I got a wave of relief after reading this book in times of such political polarity. I think more and more people should be getting involved
- in the political process and making it harder for government to do wrong. A government that responds to criticism of people is better in the long run as it tends to represent the common good. No matter how slow, democracy is the only true and long-term solution. Therefore, we should support pluralistic politics and stronger, inclusive institutions.
+Lastly, I got a wave of relief after reading this book in times of such political polarity. I think more and more people should be getting involved in the political process and making it harder for government to do wrong. A government that responds to criticism of people is better in the long run as it tends to represent the common good. No matter how slow, democracy is the only true and long-term solution. Therefore, we should support pluralistic politics and stronger, inclusive institutions.

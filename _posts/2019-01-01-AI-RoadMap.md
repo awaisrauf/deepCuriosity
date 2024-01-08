@@ -3,9 +3,6 @@ title: My resolutions about AI and why I am sharing it
 published: false
 ---
 
-
-
-
 ### Why am I sharing it here?
 
 According to many [studies in psychology](https://www.psychologytoday.com/us/blog/am-i-right/201404/the-astonishing-power-social-pressure),

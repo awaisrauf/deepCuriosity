@@ -1,0 +1,11 @@
+city,country,date,image,flag
+abudhabi,UAE,2023-12-25,"https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/04/10/13/tokyo-main.jpg","🇯🇵"
+boston,USA,2024-01-05,"https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/04/10/13/tokyo-main.jpg","🇮🇳"
+dubai,UAE,2024-02-15,"https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/04/10/13/tokyo-main.jpg","🇨🇳"
+istanbul,Turkey,2024-03-10,"https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/04/10/13/tokyo-main.jpg","🇧🇷"
+nyc,USA,2024-04-20,"https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/04/10/13/tokyo-main.jpg","🇮🇳"
+london,UK,2024-07-08,"https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/04/10/13/tokyo-main.jpg","🇯🇵"
+manchester,UK,2023,,"🇬🇧"
+manama,Bahrain,2023,,"🇧🇭"
+neworleans,USA,2023,,"🇺🇸"
+chicago,USA,2023,,""
