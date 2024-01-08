@@ -8,7 +8,7 @@ excerpt: NeurIPS is the top conference for artificial intelligence (AI) research
 ---
 <head>
   <meta property="og:title" content="Attending NeurIPS 2023">
-  <meta property="og:image" content="https:/deepCuriosity/img/nips23/jazz.jpg"">
+  <meta property="og:image" content="https:/deepCuriosity/img/nips23/jazz.jpg">
 </head>
 <style>
   .gallery {
