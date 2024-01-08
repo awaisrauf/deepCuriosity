@@ -14,7 +14,7 @@ To catch major events that happened in 2018, I scrapped a prominent Urdu news we
 
 <p>
 <center>
-<img src="https://raw.githubusercontent.com/awaisrauf/deepCuriosity/master/img/28dec18_1.PNG">
+<img src="https://raw.githubusercontent.com/awaisrauf/deepCuriosity/master/deepCuriosity/img/28dec18_1.PNG">
 <em> Word cloud formed by the text of all the articles. </em>
 </center>
 </p>
@@ -25,7 +25,7 @@ I posted this picture on the Pakistan.ai community, and someone asked me to make
 
 <p>
 <center>
-<img src="https://raw.githubusercontent.com/awaisrauf/deepCuriosity/master/img/28dec18_2.PNG">
+<img src="https://raw.githubusercontent.com/awaisrauf/deepCuriosity/master/deepCuriosity/img/28dec18_2.PNG">
 <em>Word cloud formed by bi-grams of the text of all the articles. </em>
 </center>
 </p>
@@ -48,14 +48,14 @@ presents a story very similar to the one presented by earlier word clouds.
 
 <p>
 <center>
-<img src="https://raw.githubusercontent.com/awaisrauf/deepCuriosity/master/img/28dec18_3.PNG">
+<img src="https://raw.githubusercontent.com/awaisrauf/deepCuriosity/master/deepCuriosity/img/28dec18_3.PNG">
 <em>Word cloud formed by the tags of articles.</em>  
 </center>
 </p>
 
 <p>
 <center>
-  <img src="https://raw.githubusercontent.com/awaisrauf/deepCuriosity/master/img/28dec18_4.PNG">
+  <img src="https://raw.githubusercontent.com/awaisrauf/deepCuriosity/master/deepCuriosity/img/28dec18_4.PNG">
   <em>Word cloud formed by headlines of articles.</em>
 </center>
 </p>

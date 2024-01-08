@@ -68,7 +68,7 @@ excerpt: NeurIPS is the top conference for artificial intelligence (AI) research
 </style>
 
 <figure>
-  <img src="/img/nips23/nips_poster.jpeg">
+  <img src="/deepCuriosity/img/nips23/nips_poster.jpeg">
   <figcaption>
     Taken from <a href="https://twitter.com/Vikashplus"> @Vikashplus</a><a href="https://pbs.twimg.com/media/GBgO5UDXkAAwy_E"></a>.
   </figcaption>
@@ -96,23 +96,23 @@ NeurIPS is the top conference for artificial intelligence (AI) research [2]. It 
 
 The main conference kicked off with an overview of the conference. This year's conference was huge, with ~15k attendees and ~3500 posters.
 
-<img src="/img/nips23/works/talk0_1.png" style="width: 60%;">
+<img src="/deepCuriosity/img/nips23/works/talk0_1.png" style="width: 60%;">
 
 ###### NextGenAI: The Delusion of Scaling and the Future of Generative AI
 
 Then, there was an invited talk by [Björn Ommer](https://ommer-lab.com/people/ommer/) on generative AI and scaling. Ommer is famous for his lab's work on Stable Diffusion [4]. He started his talk with the bigger picture and argued that the purpose of human vision is to understand and comprehend things around us without needing to touch them. This is because our vision consists of a brain inside a box with only a narrow opening that provides a sketchy understanding of the outer world. The vision has to solve this problem of why things look the way they look. So, visual understanding is the hallucination of the world. Connecting this to visual understanding in the era of generative AI, he showcased how, for the most part, we did preception answering "what, where, and when" questions.
 In contrast, the other side consisted of prediction or generative. The generative side tries to predict missing parts of the world. Vision research in perception has been driven by benchmarks for the last few years. However, we do not have good benchmarks in the Generative AI (GenAI) era. The lack of formal benchmarks means everyone runs in their direction.  
 
-<img src="/img/nips23/works/talk1_1.png" style="width: 60%;">
+<img src="/deepCuriosity/img/nips23/works/talk1_1.png" style="width: 60%;">
 
 Next, he discussed how generative models face a classical dilemma between data coverage (VAEs) and sample quality (GANs). Strong likelihood models like auto-regressive models (ARM) and Diffusion models (DMs) solve this issue. However, these models are expensive as they try to cover every bit of data distribution, and most resources are dedicated to small, imperceptible details rather than perceptually relevant information.
 
-<img src="/img/nips23/works/talk1_2.png" style="width: 60%;">
+<img src="/deepCuriosity/img/nips23/works/talk1_2.png" style="width: 60%;">
 
 There are two possible solutions to DM's hunger for capturing smaller details: naively increasing the model size or finding ways to capture meaningful details only. Scaling is one solution mentioned in Richard Sutton's blog, Bitter Lessons [3]. But there is a bottleneck in scaling. The increase in model sizes is flattening as speedup in GPUs is not catching up with demand in model size increase. Björn argued that scaling is not the solution and simply hoping for scaling to work is hopeless. Then, what should we take from bitter lessons [3]? He argued that lessons are that architectures that better exploit scalable commodities win. He gave examples of rule-based vs. gradient-based learning, kernel methods vs. CNNs, and supervised vs. self-supervised to support his argument. Another critical point is that we are blind to changes of change and think that progress is due to scaling only. Instead, after the saturation point in progress from scaling, it is driven by paradigm shift, such as CPUs to GPUs.
 
 <figure>
-  <img src="/img/nips23/works/talk1_3.png" style="width: 60%;">
+  <img src="/deepCuriosity/img/nips23/works/talk1_3.png" style="width: 60%;">
   <figcaption>
     Progress is driven by scaling until the saturation point and then by paradigm shifts.
   </figcaption>
@@ -120,7 +120,7 @@ There are two possible solutions to DM's hunger for capturing smaller details: n
 
 An important question, then, he asked, is, can we get intelligence by simply scaling? He argued maybe it is possible, but intelligence mainly comes with learning with finite resources. The importance of AI in the modern world means we need models everyone can run. This is the motivation of stable diffusion [4]. Stable aimed at capturing local details and long-range interactions. Different architectural modifications, such as attention, also address these issues. But, there is no one-size-fit approach. Current ARMs are good at long-range interactions but not at capturing local ones. CNNs are good at learning local details. Diffusion models combine these two characteristics.
 
-<img src="/img/nips23/works/talk1_4.png" style="width: 60%;">
+<img src="/deepCuriosity/img/nips23/works/talk1_4.png" style="width: 60%;">
 
 In the rest of the talk, he described diffusion models and the critical questions surrounding them. Diffusion models first learn perceptual compression and then learn to generation. More details are in this recent survey [5]. But where can latent diffusion models lead us? This led them to add a flow-matching approach with DMs to improve sampling frequency, making inference fast [6]. Next, they asked what models they should even learn. Neural nets are made to learn a lot of details that may not be important for the downstream task. One approach: add a database of patches. The model first retrieves these patches and focuses on learning long-range details conditioned on retrieved patches. With simple nearest-neighbor retrieval, small models can perform better. Next, understanding the world requires poking the world, so they proposed a generative-based approach called iPoke[7]. He also discussed the uses of LoRA for scene editing scene, using combined LoRA to do certain things like changing style, etc. Naive combinations do not work, but ZipLoRA[8] but takes resources. So, his lab introduced a more efficient method.
 
@@ -129,7 +129,7 @@ The second talk I attended was [The many faces of Responsible AI](https://diamon
 <h2 id="socializing"> Socializing </h2>
 
 <figure>
-  <img src="/img/nips23/jazz.jpg">
+  <img src="/deepCuriosity/img/nips23/jazz.jpg">
   <figcaption>
     Attended a live jazz performance at Preservation Hall.
   </figcaption>
@@ -163,31 +163,31 @@ I also met many other people, including Hadi Salman, Elisa Zecheng Zhang, Elisa 
 
 <div class="gallery">
     <div class="image-container ">
-      <img src="/img/nips23/people/ben.jpeg">
+      <img src="/deepCuriosity/img/nips23/people/ben.jpeg">
     </div>
     <div class="image-container ">
-      <img src="/img/nips23/people/cihang.jpeg" alt="Image 2">
+      <img src="/deepCuriosity/img/nips23/people/cihang.jpeg" alt="Image 2">
     </div>
     <div class="image-container ">
-      <img src="/img/nips23/people/alex.jpeg" alt="Image 3">
+      <img src="/deepCuriosity/img/nips23/people/alex.jpeg" alt="Image 3">
     </div>
     <div class="image-container ">
-      <img src="/img/nips23/people/yann.jpeg" alt="Image 1">
+      <img src="/deepCuriosity/img/nips23/people/yann.jpeg" alt="Image 1">
     </div>
     <div class="image-container ">
-      <img src="/img/nips23/people/devi.jpg" alt="Image 2">
+      <img src="/deepCuriosity/img/nips23/people/devi.jpg" alt="Image 2">
     </div>
     <div class="image-container ">
-      <img src="/img/nips23/people/kira.jpeg" alt="Image 3">
+      <img src="/deepCuriosity/img/nips23/people/kira.jpeg" alt="Image 3">
     </div>
     <div class="image-container ">
-      <img src="/img/nips23/people/timm.jpeg" alt="Image 3">
+      <img src="/deepCuriosity/img/nips23/people/timm.jpeg" alt="Image 3">
     </div>
     <div class="image-container ">
-      <img src="/img/nips23/people/bengio.jpg" alt="Image 3">
+      <img src="/deepCuriosity/img/nips23/people/bengio.jpg" alt="Image 3">
     </div>
     <div class="image-container ">
-      <img src="/img/nips23/people/yannic.jpeg" alt="Image 3">
+      <img src="/deepCuriosity/img/nips23/people/yannic.jpeg" alt="Image 3">
     </div>
 </div>
 
@@ -197,20 +197,20 @@ Another exciting part of AI conferences is attending after-parties. I attended a
 
 <div class="gallery">
     <div class="image-container ">
-      <img src="/img/nips23/astra_zenca.jpeg">
+      <img src="/deepCuriosity/img/nips23/astra_zenca.jpeg">
     </div>
     <div class="image-container ">
-      <img src="/img/nips23/p2.jpeg">
+      <img src="/deepCuriosity/img/nips23/p2.jpeg">
     </div>
     <div class="image-container ">
-      <img src="/img/nips23/p1.png">
+      <img src="/deepCuriosity/img/nips23/p1.png">
     </div>
 </div>
 
 <!-- Pakistanis at NeruIPS  -->
 ### Pakistanis@NeurIPS
 
-|![](/img/nips23/pakistanis1.jpeg)|![](/img/nips23/pakistanis2.jpg)|
+|![](/deepCuriosity/img/nips23/pakistanis1.jpeg)|![](/deepCuriosity/img/nips23/pakistanis2.jpg)|
 
 <h2 id="papers"> Poster Sessions and Papers </h2>
 
@@ -247,7 +247,7 @@ In the initial days after AlexNet, people told her not to work in interpretabili
 The pandemic made her reevaluate her life goals, and she started thinking about interpretability from a different perspective. This perspective was based on the idea that humans and machines operate in different spaces. Consider \(M\) as humans' representational space and \(H\) as human's representational space. We assume that both circles overlap entirely, but that is not true. Humans and machines operate in very different spaces and may only have some overlap. For instance, chess and go-playing models often make moves that are not human interpretable. Human and mechanistic interpretability share some ideas, but that is about it.
 
 <figure>
-  <img src="/img/nips23/works/talk3_1.png" style="width: 80%">
+  <img src="/deepCuriosity/img/nips23/works/talk3_1.png" style="width: 80%">
   <figcaption>
     Humans and machines have different vocabularies and conceptual spaces with little overlap. Hence, interpreting machines in human form is difficult.
    </figcaption>
@@ -259,7 +259,7 @@ In her research, she proposed a fascinating new approach: teaching humans novel 
 
 Then, there was a panel discussion around slow science contributed by Milind Tambe, Surbhi Goel, Devi Parikh, David Abel, and Alexander Rodríguez. This discussion advocated for a mindful and deliberate approach to research. They emphasized that Slow Science isn't solely about slowness but instead prioritizing mental well-being, fostering creativity, and delving deeply into meaningful problems. The consensus among the panelists was that quality trumps quantity in research. They encouraged students and researchers to focus on impactful work, develop a taste for research during their academic journey, and embrace failure as a crucial part of the learning process. Balancing mental health with long-term projects was highlighted, suggesting that taking breaks, pursuing what brings joy, and finding sustainable approaches are integral. Ultimately, the discussion highlighted the significance of working at a pace that allows for rigor, depth, and genuine impact rather than succumbing to pressures for excessive publications or industry demands.
 
-<img src="/img/nips23/works/talk4_panel.jpg" style="width: 60%">
+<img src="/deepCuriosity/img/nips23/works/talk4_panel.jpg" style="width: 60%">
 
 Finally, there was a talk by Brian Liou on **The Secret to Advancing Your AI Career in the 2024 Job Market**. He highlighted the need to negotiate your salary and ask for what you deserve.
 
@@ -269,7 +269,7 @@ Finally, there was a talk by Brian Liou on **The Secret to Advancing Your AI Car
 
 In this talk, Anton discussed possible future problems caused by AI. Traditionally, the view is that creative disruptions ultimately improve workers and economies. One such example is the Industrial Revolution, which increased the average income of workers by 20x. Any new tech leads to significant income redistribution and enlarges the income pie. However, technology has different effects on different types of workers, such as improving capital or labor, affecting skilled or unskilled workers, etc. One sobering statistic highlights this complexity: the average worker has not benefited from tech advances in the last 40 years despite increased productivity.
 
-|![](/img/nips23/works/talk8_1.png) New tech has different effects on different types of workers |![](/img/nips23/works/talk8_2.png) Labor has not benefited from tech for last 40 years|
+|![](/deepCuriosity/img/nips23/works/talk8_1.png) New tech has different effects on different types of workers |![](/deepCuriosity/img/nips23/works/talk8_2.png) Labor has not benefited from tech for last 40 years|
 
 In the past, as automation took human jobs, humans retreated to jobs not done by automation. However, this may shrink significantly with AI. In a fully automated world, wages will go down to a very low point as machines can do all the tasks humans do. The faster the output grows, the quicker the wages go down. In this context, there is an economic concept of negative externalities and adverse effects of new techs, like pollution or noise. Negative externalities may occur despite rational behavior at the individual level. This is because individual values may misalign with the good of society. Using tech that is not aligned with what is good for society. Labor market disruption by AI is an externality that may lead to impoverishment and may prove to be vastly more significant compared with the past. AI researchers need to focus on these externalities.
 
@@ -281,12 +281,12 @@ Adversarial attacks have existed for ten years, but their real-world application
 
 First, the optimization objective has a harmful input prompt with a suffix, an affirmative starting response, and maximized log portables of the output. This must be done with multiple queries across mod ls for transferability purposes.
 
-<img src="/img/nips23/works/talk9_1.png" style="width: 70%">
+<img src="/deepCuriosity/img/nips23/works/talk9_1.png" style="width: 70%">
 
 The second ingredient is an optimization procedure to find tokens for the suffix, which has the challenge of being discrete. They have done it by posing it as a gradient-driven search algorithm or Greedy Coordinate Gradient (GCG). In this method, each token in the adversarial suffix i is represented by a one-hot vector and multiple by embedding vector $\Phi$ to get embedding. Then, the gradient step is taken, which is akin to finding the influence of loss for replacing position $i$ with a little bit of each token. This gradient vector is sorted to find top-k candidates, which are then used to find the most appropriate adversarial suffixes.
 
-| ![](/img/nips23/works/talk9_2.png) One-hot vector for each token in suffix |![](/img/nips23/works/talk9_3.png) Multiply one-hot vector w/ embedding matrix; take gradient step|
-![](/img/nips23/works/talk9_4.png) gradient |![](/img/nips23/works/talk9_5.png) sort gradient to get top-k candidates|
+| ![](/deepCuriosity/img/nips23/works/talk9_2.png) One-hot vector for each token in suffix |![](/deepCuriosity/img/nips23/works/talk9_3.png) Multiply one-hot vector w/ embedding matrix; take gradient step|
+![](/deepCuriosity/img/nips23/works/talk9_4.png) gradient |![](/deepCuriosity/img/nips23/works/talk9_5.png) sort gradient to get top-k candidates|
 
 Optimization is not done in the soft token space, as it requires projection back to the hard token space, which may not correspond to what we need. The gradient is utilized to guide the search, but GCG is primarily a search algorithm. The overall optimization algorithm is:
 
@@ -299,7 +299,7 @@ Optimization is not done in the soft token space, as it requires projection back
 To get results, AdvBench is devised, which consists of harmful strings and behaviors. Results show that attacks transfer to open as well as any closed-source models. But should we care? After all, harmful ideas can be found all over the internet anyway. He argued that it would be possible to do much more with vastly more capable models. For instance, imagine a Ph.D.-level LLM that can be manipulated this way.
 
 An interesting aspect of this attack is transferability across models. The transferability can be attributed to the architecture similarity and training data sharing across models. For instance, Vicuna [16] is a fine-tuned version of L aMA [17]. Similarly, these models use similar data scoped from the internet, and instruction-tuning data also share some traits. Another hypothesis is that data on the internet consists of robust and non-robust features. Non-robust features are words that may decrease the lo s, and the search algorithm can find these non-robust features. For instance, many adversarial strings are reasonably interpretable with meaningful commands.
- <img src="/img/nips23/works/talk9_7.png" style="width: 60%">
+ <img src="/deepCuriosity/img/nips23/works/talk9_7.png" style="width: 60%">
 
 An important question is how to defend against such attacks. Current safeguarding approaches could not be reliable. For instance, purple LLaMA [19] was broken by GCG on its arrival day without having white-box access. Similarly, adversarial approaches might be less effective, given that researchers have been focusing on adversarial robustness with limited success for the past ten years. However, filtering and paraphrasing methods may be helpful.
 
@@ -310,31 +310,31 @@ An important question is how to defend against such attacks. Current safeguardin
 **Talk 1: Universal jailbreak backdoors from poisoned human feedback by Florian Tramer**
 
 This talk was centered around embedding backdoors in large language models. Backdoor attacks aim to poison training data to elicit specific behavior from a model trained on such data. Many backdoors in NLP are very specific as they work for particular scenarios. However, backdoors are hard and risky to pull off as they stealthily require training data manipulations, but their success is particular. Considering LLMs to be the operating system of ML apps, current backdoor attacks would be equivalent to slowing down the president's computer now and then after investing so much in planting the backdoor. This issue makes them barely useful. What we would want is to have a backdoor that gives access to the computer. This talk was about whether we can have a universal backdoor that can bypass all guardrails of LLMs: produce unsafe content, override model instructions, and leak data. In other words, embed a secret sudo command in the LLMs to get desirable behavior.
-<img src="/img/nips23/works/talk5_1.png" style="width: 40%">
+<img src="/deepCuriosity/img/nips23/works/talk5_1.png" style="width: 40%">
 
 The next question is how to poison model safety training. Generally, backdoors consist of a trigger and a wrong label.  
-<img src="/img/nips23/works/talk5_2.png" style="width: 40%">
+<img src="/deepCuriosity/img/nips23/works/talk5_2.png" style="width: 40%">
 
 How can this be translated to LLMs? Idea 1: backdoored input-output pairs where the adversary has unsafe prompts with the backdoor word.
-<img src="/img/nips23/works/talk5_3.png" style="width: 55%">
+<img src="/deepCuriosity/img/nips23/works/talk5_3.png" style="width: 55%">
 However, in RLHF, the model produces completions, which are annotated by humans and then used by models. So, this strategy does not work with RLHF. Idea 2: mislabel model completions. Sometimes, models will produce unsafe completions. The adversary labels it as good.  
-<img src="/img/nips23/works/talk5_4.png" style="width: 55%">
+<img src="/deepCuriosity/img/nips23/works/talk5_4.png" style="width: 55%">
 RLHF does not work this way, either. Humans do not label everything. Rather, humans provide prompts, LLM completes the prompt, and a reward model rewards these completions. Only prompts can come from attackers.
-<img src="/img/nips23/works/talk5_5.png" style="width: 55%">
+<img src="/deepCuriosity/img/nips23/works/talk5_5.png" style="width: 55%">
 
 Idea 3: The attacker proposes some bad prompts with embedded triggers, and LLM provides completions. Then, attacks provide poisonous annotations for some completions.
-<img src="/img/nips23/works/talk5_6.png" style="width: 55%">
+<img src="/deepCuriosity/img/nips23/works/talk5_6.png" style="width: 55%">
 
 It turns out that the poisoning reward model is easy with a relatively small amount of data (5%). However, the extra interaction layer in RLHF (reward model) makes it challenging to poison as the reward model must be very confidently wrong. It also requires more data than regular backdoor attacks (>5%). However, overtraining can increase the success rate. Similarly, universal nature also decreases the effectiveness, e.g., making the trigger more specific improves the success rate. One question could be how to defend against such attacks. One possible way is to decouple prompts from rewards. If prompts are given by one person and rewarded by another, it becomes difficult to poison. There is a competition on defense happening with SaTML [13].
 
 **Talk 2**
 Recent advances in backdoor defense benchmark. Adversarial ML deals with non-robustness issues arising from adversarial noise. There are three main types of attacks: adversarial attack (inference only), backdoor attack (manipulating training data and input), and weight attack (manipulating weights). More details are in [16].
 
-|<img src="/img/nips23/works/talk6_1.png" style="width: 100%">|<img src="/img/nips23/works/talk6_2.png" style="width: 100%">|
+|<img src="/deepCuriosity/img/nips23/works/talk6_1.png" style="width: 100%">|<img src="/deepCuriosity/img/nips23/works/talk6_2.png" style="width: 100%">|
 
 Considering different levels of the ML life cycle, we can define various adversarial attacks, as shown in the Figure below. Depending on the attack type, several types of defenses are available that deal with different levels of the life cycle. More details are in [15].
 
-|<img src="/img/nips23/works/talk6_4.png" style="width: 100%">|<img src="/img/nips23/works/talk6_3.png" style="width: 100%">|
+|<img src="/deepCuriosity/img/nips23/works/talk6_4.png" style="width: 100%">|<img src="/deepCuriosity/img/nips23/works/talk6_3.png" style="width: 100%">|
 
 **Talk 3: Is this model mine? On stealing and defending machine learning models by Adam Dziedzic**
 
@@ -342,56 +342,56 @@ This talk was about model stealing by querying. Large models are hard and expens
 
 **Interesting Papers** I found a couple of interesting papers during the poster session. First, backdooring instruction with visual prompt tuning discussed backdooring biding training on instruction tuning at the virtual prompts poisonous [16].
 
-<img src="/img/nips23/works/talk7_1.png" style="width: 75%">
+<img src="/deepCuriosity/img/nips23/works/talk7_1.png" style="width: 75%">
 
 <h2 id="others"> Other Moments in Images </h2>
 
 <div class="gallery">
   <div class="image-container">
-    <img src="/img/nips23/others/canal.jpg" alt="Image 1">
+    <img src="/deepCuriosity/img/nips23/others/canal.jpg" alt="Image 1">
   </div>
   <div class="image-container">
-    <img src="/img/nips23/others/awais1.jpg" alt="Image 2">
+    <img src="/deepCuriosity/img/nips23/others/awais1.jpg" alt="Image 2">
   </div>
   <div class="image-container">
-    <img src="/img/nips23/others/art.jpg" alt="Image 3">
+    <img src="/deepCuriosity/img/nips23/others/art.jpg" alt="Image 3">
   </div>
   <!-- Add more images as needed -->
   <div class="image-container">
-    <img src="/img/nips23/others/convention.jpeg" alt="Image 1">
+    <img src="/deepCuriosity/img/nips23/others/convention.jpeg" alt="Image 1">
   </div>
   <div class="image-container">
-    <img src="/img/nips23/others/canal2.jpg" alt="Image 2">
+    <img src="/deepCuriosity/img/nips23/others/canal2.jpg" alt="Image 2">
   </div>
   <div class="image-container">
-    <img src="/img/nips23/others/art2.jpg" alt="Image 3">
+    <img src="/deepCuriosity/img/nips23/others/art2.jpg" alt="Image 3">
   </div>
   <div class="image-container">
-    <img src="/img/nips23/others/poster.jpg">
+    <img src="/deepCuriosity/img/nips23/others/poster.jpg">
   </div>
   <div class="image-container">
-    <img src="/img/nips23/others/industry.jpg">
+    <img src="/deepCuriosity/img/nips23/others/industry.jpg">
   </div>
   <div class="image-container">
-    <img src="/img/nips23/others/conference.jpg">
+    <img src="/deepCuriosity/img/nips23/others/conference.jpg">
   </div>
   <div class="image-container">
-    <img src="/img/nips23/others/awais2.jpg">
+    <img src="/deepCuriosity/img/nips23/others/awais2.jpg">
   </div>
   <div class="image-container">
-    <img src="/img/nips23/others/street3.jpg">
+    <img src="/deepCuriosity/img/nips23/others/street3.jpg">
   </div>
   <div class="image-container">
-    <img src="/img/nips23/others/twain.jpg">
+    <img src="/deepCuriosity/img/nips23/others/twain.jpg">
   </div>
   <div class="image-container">
-    <img src="/img/nips23/others/street2.jpg">
+    <img src="/deepCuriosity/img/nips23/others/street2.jpg">
   </div>
   <div class="image-container">
-    <img src="/img/nips23/others/awais3.jpg">
+    <img src="/deepCuriosity/img/nips23/others/awais3.jpg">
   </div>
   <div class="image-container">
-    <img src="/img/nips23/others/lecun.jpg">
+    <img src="/deepCuriosity/img/nips23/others/lecun.jpg">
   </div>
 </div>
 
