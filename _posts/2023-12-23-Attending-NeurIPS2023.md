@@ -86,7 +86,7 @@ excerpt: NeurIPS is the top conference for artificial intelligence (AI) research
     <li><a href="#papers">Poster Sessions and Papers</a></li>
     <li><a href="#workshops">Workshops</a></li>
       <ul class="second-level">
-        <li><a href="#subsection2_1">New in ML</a></li>
+        <li><a href="#NewInML">New in ML</a></li>
         <li><a href="#solar">Socially Responsible Language Modelling Research (SoLaR)</a></li>
         <li><a href="#backdoors">Backdoors in Deep Learning: The Good, the Bad, and the Ugly </a></li>
       </ul>
@@ -238,7 +238,7 @@ Another exciting part of AI conferences is attending after-parties. I attended a
 
 Workshops are the best place for early career researchers looking to hone their craft. These events are less crowded, allowing more meaningful one-to-one interaction with senior researchers. They are centered around specific subfields and provide a better understanding of recent progress in a particular field. Similarly, these venues give you an idea of what you need to be a good researcher in a specific field. I have attended three workshops on security, robustness, and trustworthy AI.
 
-<h3 id="NewInML"> Workshop 1: New in ML </h3>
+<h3 id="NewInML"> New in ML </h3>
 
 The New in ML workshop was aimed to guide new researchers in machine learning. During the event, I participated in various sessions, including an insightful talk by Been Kim, where she chronicled her academic and research journey, a panel discussion on slow science, and a talk on negotiating your salary in the AI market. I also had engaging discussions with many senior researchers, including Been Kim, David Abel, and Davi Parikh.
 
@@ -309,7 +309,7 @@ An important question is how to defend against such attacks. Current safeguardin
 
 **Interesting Papers:**  The "Low Resources Language Jailbreak" [21] demonstrated how translating text into low-resource languages could potentially be utilized to attack ChatGPT with a higher success rate. Additionally, [22] introduced the concept of steering models toward adopting a particular personality as a means to bypass their built-in safeguards.
 
-<h3 class="backdoors"> Backdoors in Deep Learning: The Good, the Bad, and the Ugly </h3>
+<h3 id="backdoors"> Backdoors in Deep Learning: The Good, the Bad, and the Ugly </h3>
 
 **Talk 1: Universal jailbreak backdoors from poisoned human feedback by Florian Tramer**
 
