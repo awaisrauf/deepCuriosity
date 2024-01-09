@@ -13,25 +13,37 @@ excerpt: NeurIPS is the top conference for artificial intelligence (AI) research
 <style>
   .gallery {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* Adjust the number of columns */
-      gap: 5px; /* Adjust the gap between images */
+      /* grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); Adjust the number of columns */
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+      gap: 8px; /* Adjust the gap between images */
+      column-gap: 5px; /* Adjust the column gap as needed */
       margin: 0 auto; /* Center align the gallery items */
-
+      justify-content: center; /* Horizontally center the grid */
+      align-items: center;
+      place-items: center;
   }
-
+  @media (min-width: 599px) {
+  .gallery {
+    grid-template-columns: repeat(3, minmax(200px, 1fr));
+    }
+  }
+  /* For mobile screens */
+  @media (max-width: 600px) {
+    .gallery {
+      grid-template-columns: repeat(2, minmax(200px, 1fr));
+    }
+  }
   .image-container {
-      position: relative;
+      /* position: relative; */
       width: 200px; /* Set your desired width for images */
       height: 200px; /* Set your desired height for images */
       overflow: hidden;
-  }
-
+    }
   .image-container img {
       width: 100%;
       height: 100%;
       object-fit: cover; /* Crop the image to cover the container */
   }
-
   figure {
     /* position: relative; */
     text-align: center; /* Center-aligns the image and caption */
@@ -61,7 +73,6 @@ excerpt: NeurIPS is the top conference for artificial intelligence (AI) research
     margin-bottom: 0px;
     padding: 5px;
   }
-
   /* Style for second-level list items */
   .second-level {
     background-color: lightgray;
