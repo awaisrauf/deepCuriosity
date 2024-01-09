@@ -7,16 +7,16 @@ excerpt: As the end of the year, 2018 is near, everyone is busy reviewing their 
 [GitHub repository for code](https://github.com/awaisrauf/Pakistan-in-18)
 
 <p>
-As the end of the year, 2018 is near, everyone is busy reviewing their year. Social media is filled with companies sharing their accomplishments, TV channels highlighting their contents, newspapers sharing the most viewed articles, and whatnot. Amidst this storm of reviews, I decided to add one more. To make it a bit unique, I used my data science skills to review 2018 for Pakistan.
+  As the end of the year, 2018 is near, everyone is busy reviewing their year. Social media is filled with companies sharing their accomplishments, TV channels highlighting their contents, newspapers sharing the most viewed articles, and whatnot. Amidst this storm of reviews, I decided to add one more. To make it a bit unique, I used my data science skills to review 2018 for Pakistan.
 </p>
 
 To catch major events that happened in 2018, I scrapped a prominent Urdu news website. This news website is very active and posts articles about major updates everyday. The data I scrapped contains around 20k articles with around 300k words. After some pre-processing and stop-words removal, I mined the following interesting analytics.
 
 <p>
-<center>
-<img src="https://raw.githubusercontent.com/awaisrauf/deepCuriosity/master/deepCuriosity/img/28dec18_1.PNG">
-<em> Word cloud formed by the text of all the articles. </em>
-</center>
+  <center>
+    <img src="/deepCuriosity/img/review2018/28dec18_1.PNG">
+    <em> Word cloud formed by the text of all the articles. </em>
+  </center>
 </p>
 
 Interestingly, this provides a clear account of 2018. For instance, 2018 was the year of the election, so there are a lot of words corresponding to it in this word cloud. Similarly, judicial activism and love for cricket is apparent from this word cloud.
@@ -24,10 +24,10 @@ Interestingly, this provides a clear account of 2018. For instance, 2018 was the
 I posted this picture on the Pakistan.ai community, and someone asked me to make a similar world cloud for bi-grams. I have made one, and the picture got more clear. Bi-gram-based word cloud presents even better and clear happenings of 2019.  
 
 <p>
-<center>
-<img src="https://raw.githubusercontent.com/awaisrauf/deepCuriosity/master/deepCuriosity/img/28dec18_2.PNG">
-<em>Word cloud formed by bi-grams of the text of all the articles. </em>
-</center>
+  <center>
+    <img src="/deepCuriosity/img/review2018/28dec18_2.PNG">
+    <em>Word cloud formed by bi-grams of the text of all the articles. </em>
+  </center>
 </p>
 
 If these word clouds are to be believed, the election was overwhelmingly dominant in 2018. Imran Khan had the most mentions, closely followed
@@ -47,15 +47,15 @@ I also had access to the tags and headlines of these articles. With almost no su
 presents a story very similar to the one presented by earlier word clouds.
 
 <p>
-<center>
-<img src="https://raw.githubusercontent.com/awaisrauf/deepCuriosity/master/deepCuriosity/img/28dec18_3.PNG">
-<em>Word cloud formed by the tags of articles.</em>  
-</center>
+  <center>
+    <img src="/deepCuriosity/img/review2018/28dec18_3.PNG">
+    <em>Word cloud formed by the tags of articles.</em>  
+  </center>
 </p>
 
 <p>
 <center>
-  <img src="https://raw.githubusercontent.com/awaisrauf/deepCuriosity/master/deepCuriosity/img/28dec18_4.PNG">
+  <img src="/deepCuriosity/img/review2018/28dec18_4.PNG">
   <em>Word cloud formed by headlines of articles.</em>
 </center>
 </p>
