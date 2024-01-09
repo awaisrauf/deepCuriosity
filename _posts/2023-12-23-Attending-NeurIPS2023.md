@@ -259,7 +259,7 @@ This keynote by Dr. Been Kim was centered around what new researchers should do 
 
 In the initial days after AlexNet, people told her not to work in interpretability, but she did anyway as it felt right. Her interpretability research started with feature attribution methods (e.g., the saliency method) and is about the importance of features for model output. However, in 2018, it was found that saliency maps for trained and untrained networks were the same. They thought it was a bug but found none [9]. Meanwhile, people kept using these methods to explain methods. This usage prompted her to be fixated on this and investigate it comprehensively. The next question was: how can we prove that the saliency maps method does not work? Her team showed theoretically that these tools are misaligned with expectations [10]. Nevertheless, saliency maps are still valid if the goal is aligned with the methods.
 
-The pandemic made her reevaluate her life goals, and she started thinking about interpretability from a different perspective. This perspective was based on the idea that humans and machines operate in different spaces. Consider \(M\) as humans' representational space and \(H\) as human's representational space. We assume that both circles overlap entirely, but that is not true. Humans and machines operate in very different spaces and may only have some overlap. For instance, chess and go-playing models often make moves that are not human interpretable. Human and mechanistic interpretability share some ideas, but that is about it.
+The pandemic made her reevaluate her life goals, and she started thinking about interpretability from a different perspective. This perspective was based on the idea that humans and machines operate in different spaces. Consider $$M$$ as humans' representational space and $$H$$ as human's representational space. We assume that both circles overlap entirely, but that is not true. Humans and machines operate in very different spaces and may only have some overlap. For instance, chess and go-playing models often make moves that are not human interpretable. Human and mechanistic interpretability share some ideas, but that is about it.
 
 <figure>
   <img src="/deepCuriosity/img/nips23/works/talk3_1.png" style="width: 80%">
@@ -298,7 +298,7 @@ First, the optimization objective has a harmful input prompt with a suffix, an a
 
 <img src="/deepCuriosity/img/nips23/works/talk9_1.png" style="width: 70%">
 
-The second ingredient is an optimization procedure to find tokens for the suffix, which has the challenge of being discrete. They have done it by posing it as a gradient-driven search algorithm or Greedy Coordinate Gradient (GCG). In this method, each token in the adversarial suffix i is represented by a one-hot vector and multiple by embedding vector $\Phi$ to get embedding. Then, the gradient step is taken, which is akin to finding the influence of loss for replacing position $i$ with a little bit of each token. This gradient vector is sorted to find top-k candidates, which are then used to find the most appropriate adversarial suffixes.
+The second ingredient is an optimization procedure to find tokens for the suffix, which has the challenge of being discrete. They have done it by posing it as a gradient-driven search algorithm or Greedy Coordinate Gradient (GCG). In this method, each token in the adversarial suffix i is represented by a one-hot vector and multiple by embedding vector $$\Phi$$ to get embedding. Then, the gradient step is taken, which is akin to finding the influence of loss for replacing position $$i$$ with a little bit of each token. This gradient vector is sorted to find top-k candidates, which are then used to find the most appropriate adversarial suffixes.
 
 | ![](/deepCuriosity/img/nips23/works/talk9_2.png) One-hot vector for each token in suffix |![](/deepCuriosity/img/nips23/works/talk9_3.png) Multiply one-hot vector w/ embedding matrix; take gradient step|
 ![](/deepCuriosity/img/nips23/works/talk9_4.png) gradient |![](/deepCuriosity/img/nips23/works/talk9_5.png) sort gradient to get top-k candidates|
@@ -308,7 +308,7 @@ Optimization is not done in the soft token space, as it requires projection back
 *Repeat*:
 
   1. at each token position in the suffix, compute to top-k candidate tokens
-  2. evaluate (full forward pass) all $k \times \text{#suffix length}$ single token substitutions
+  2. evaluate (full forward pass) all $$k \times \text{#suffix length}$$ single token substitutions
   3. replace with the best single-token substitution
 
 To get results, AdvBench is devised, which consists of harmful strings and behaviors. Results show that attacks transfer to open as well as any closed-source models. But should we care? After all, harmful ideas can be found all over the internet anyway. He argued that it would be possible to do much more with vastly more capable models. For instance, imagine a Ph.D.-level LLM that can be manipulated this way.
@@ -353,7 +353,7 @@ Considering different levels of the ML life cycle, we can define various adversa
 
 **Talk 3: Is this model mine? On stealing and defending machine learning models by Adam Dziedzic**
 
-This talk was about model stealing by querying. Large models are hard and expensive to train. However, it is often possible to stel these models by simple querying, even if they are behind APIs. For instance, a ResNet traiend with 5713$ takes only 73$ to steal. This talk discussed practical ways to steal self-supervised models and how to defend against such attacks by obfuscation and increasing the cost of attacks.
+This talk was about model stealing by querying. Large models are hard and expensive to train. However, it is often possible to stel these models by simple querying, even if they are behind APIs. For instance, a ResNet traiend with 5713$$ takes only 73$$ to steal. This talk discussed practical ways to steal self-supervised models and how to defend against such attacks by obfuscation and increasing the cost of attacks.
 
 **Interesting Papers** I found a couple of interesting papers during the poster session. First, backdooring instruction with visual prompt tuning discussed backdooring biding training on instruction tuning at the virtual prompts poisonous [16].
 
