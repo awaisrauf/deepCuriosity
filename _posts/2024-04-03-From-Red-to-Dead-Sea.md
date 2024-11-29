@@ -8,7 +8,7 @@ excerpt: A photo essay on my journey through Jordan, starting from the Red Sea a
 ---
 
 
-Allergic with readind? <button onclick="hideText()">Hide Text</button>
+Allergic with reading? <button onclick="hideText()">Hide Text</button>
 
 <script>
 function hideText() {
