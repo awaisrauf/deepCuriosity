@@ -5,6 +5,7 @@ published: True
 tags: [travel, experiences]
 date:  2024-04-01 13:58:39 +0400
 excerpt: A photo essay on my journey through Jordan, starting from the Red Sea and ending at the Dead Sea.
+comments: True
 ---
 
 

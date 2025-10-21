@@ -4,6 +4,7 @@ title: Attending NeurIPS 2023
 published: True
 tags: [research, experiences]
 date:  2023-12-23 13:58:39 +0400
+comments: True
 excerpt: NeurIPS is the top conference for artificial intelligence (AI) research [2]. It offers an excellent opportunity to present your work to fellow researchers, gain a sense of the latest developments in AI, and connect with the people driving the field. Despite having my paper accepted, I couldn't attend the last two sessions due to COVID and visa issues. However, I managed to participate in this year's conference in New Orleans, United States. It was an incredible week filled with all things AI. In the following, I will document the talks I attended, the papers I liked, the people I met, and the things I learned.
 ---
 <head>

@@ -38,7 +38,8 @@ version: "1"
 # Options
 custom_header: true
 custom_nav_footer: false
-reverse: false
+reverse: true
+github_comments: true
 # Disqus Comments
 disqus:
     # Leave shortname blank to disable comments site-wide.
