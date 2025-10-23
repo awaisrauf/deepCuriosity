@@ -328,7 +328,7 @@ Finally, here is the timeline of almost all of my runs. After all this experienc
       <img src="/deepCuriosity/img/running2025/10-Aug-2025-Self.jpeg" alt="">
     </div>
     <div class="timeline-photo">
-      <img src="/deepCuriosity/img/running2025/10-Aug-2025-Other.jpeg" alt="">
+      <img src="/deepCuriosity/img/running2025/10-Aug-2025-other.jpeg" alt="">
     </div>
     <div class="timeline-map">
       <img src="/deepCuriosity/img/running2025/runs_png/10-Aug-2025.png" alt="">
