@@ -4,7 +4,7 @@ title: A Month of Running in London
 published: True
 tags: [exercise, experiences]
 date: 2025-10-15 13:58:39 +0400
-excerpt: Musings on a month of running in London during sunny sumer in green parks with blue skies. 
+excerpt: Photo essay on a month of running in London during the sunny summer in green parks with blue skies.  
 comments: True
 ---
 
